@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220716074834673
+creator: tamirry
+difficulty: 5
+due: 20220718153411843
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403267
+modifier: tamirry
+reps: 1
+retrievability: 1
+review: 20220716153411843
+stability: 2
+tags: 绪论 生理学 习题 ? exported
+title: 22.属于负反馈调节的过程见于【2003N1A】__A.排尿反射____B.减压反射____C.分娩过程____D.血液凝固____E.排便反射__B
+type: text/vnd.tiddlywiki
+章节: 生理学第一章绪论
+
+<<details label:"考点还原" src:"（P12）“在正常生理情况下，体内的控制系统绝大多数都属于负反馈控制系统，它们在维持机体内环境稳态中起重要作用。例如，当机体的动脉血压突然升高时，分布在主动脉弓和颈动脉窦的压力感受器就能感受到这一变化，并将这一信息通过迷走神经和舌咽神经反馈到心血管中枢，经中枢的整合、比较、分析后，通过传出神经支配心脏和血管的活动，使动脉血压回降至调定点的相应水平”（B对）。（P7）“人体内的负反馈极为多见，在维持机体生理功能的稳态中具有重要意义。动脉血压的压力感受性反射就是一个极好的例子”（B对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-21">><<details label:"答案解析" src:"受控部分发出的反馈信息调整控制部分的活动，最终使受控部分朝着与它原来活动相反的方向改变，称为负反馈。减压反射（压力感受性反射）属于典型的负反馈调节（B对）：动脉血压升高时，压力感受器传入冲动增多，引起压力感受性反射增强，导致心迷走神经加强，心交感紧张和交感缩血管紧张减弱，表现为心率减慢，心输出量减少，外周阻力减小，动脉血压下降（P131-P132）。血液凝固（P73）（D错）、排尿反射（P254）（A错）、排便反射（E错）、分娩过程（P416）（C错）等均属于正反馈调节过程。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-21">>

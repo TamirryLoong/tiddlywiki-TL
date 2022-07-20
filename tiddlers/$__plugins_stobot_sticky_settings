@@ -1,0 +1,18 @@
+list-style: none
+list-search: (.*)
+table-style: todo
+table-search: .*?(\<\<sticky\s".+?"\>\>).*
+table-searchbar: show
+sidebar-style: line
+sidebar-search: (.*)
+sidebar-searchbar: show
+line-search: (.*)
+trim-search: ^\W*?(\w|\<.*)
+todo-search: .*?(\<\<sticky\s".+?"\>\>).*
+done-message: Congratulations, no stickies left!
+done-tooltip: Completed: <<now "YYYY-0MM-0DD hh12:0mm pm">>
+char-unchecked: &#x2609;
+char-checked: &#x2611;
+active-css: color: orange; font-weight: 500;
+done-css: font-weight: 500;
+delete-key: shift

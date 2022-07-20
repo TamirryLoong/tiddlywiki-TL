@@ -1,0 +1,25 @@
+created: 20220527085427615
+creator: tamirry
+modified: 20220720044403320
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-tpye: 
+tbl-type: idea or mark
+title: 不常用简单的
+type: text/vnd.tiddlywiki
+领域: data
+
+*下面是一些内容
+*#破折号 ：`--- ---`即  --- ---
+*#`*` ：即 `<ul><li> text </li></ul>`
+*#[[定义|https://bramchen.github.io/tw5-docs/zh-Hans/#Definitions%20in%20WikiText:TiddlerFields%20WikiText%20%5B%5BDefinitions%20in%20WikiText%5D%5D%20CheckboxWidget%20HelloThere%20GettingStarted%20Community]] ：如下 `;标题:内容` 即标题>下一行首行缩进内容（相当于下一级）
+*#单行引言：`>text`
+*#[[锚定|https://bramchen.github.io/tw5-docs/zh-Hans/#Anchor%20Links%20using%20HTML:%5B%5BAnchor%20Links%20using%20HTML%5D%5D%20HelloThere%20TiddlerFields%20WikiText%20CheckboxWidget%20GettingStarted%20Community]]：(还没搞清楚里面的一些元素代表)<br/>`<h2 id="#heading-01"> 我的目标标题</h2>` <br/> `<a href="##heading-01">链接到我的目标标题</a>`
+*#kbd：<kbd>？</kbd>=`<kbd>？</kbd>`
+*#水平划分线：`<hr>`
+*#段落符：`<p></p>`；划分符：`<div>`；换行符：`<br/>`
+*#list-tree： `@@.list-tree
+*<<details label:"TEST1" src:"测试文本" status:"close"  >>
+**<<details label:"TEST21.1.1" src:"测试文本3" status:"close"  >>
+@@`
+*#表情符号：右键第一个

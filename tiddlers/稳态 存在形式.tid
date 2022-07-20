@@ -1,0 +1,28 @@
+caption: {{||Question}}
+created: 20220712141258028
+creator: tamirry
+difficulty: 5
+due: 20220717045329431
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403373
+modifier: tamirry
+parent: 稳态
+reps: 1
+retrievability: 1
+review: 20220715045329431
+stability: 2
+stream-list: 
+stream-type: default
+tags: 生理学 ? exported
+title: 稳态 存在形式
+type: text/vnd.tiddlywiki
+
+✓存在形式
+
+* 广义稳态：''所有参与细胞活动的物质''（除了理化性质，还有分子信号传导、激素水平传导）
+* 狭义稳态：''温度、pH、渗透压和各种液体成分''
+* 一定范围内变动或围绕某个平衡点，是一种动态平衡。
+ps：——内环境的稳态：内环境的化学成分(水分、无机盐、有机物)和理化特性(渗透压、pH、温度)保持相对稳定的状态

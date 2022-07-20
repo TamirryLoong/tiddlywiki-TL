@@ -1,0 +1,23 @@
+caption: {{$:/language/fishing/excerptsentence}}
+condition: [<selectionTrim>]
+description: {{$:/language/fishing/excerptsentencetip}}
+icon: $:/core/images/add-comment
+tags: $:/tags/Annotation
+title: $:/plugins/oflg/fishing-catchfish/buttons/annotation/excerptsentence
+type: text/vnd.tiddlywiki
+
+<$action-createtiddler
+    $basetitle={{{ [<sourceTiddler>addsuffix[/]addsuffix{$:/language/fishing/excerptsentence}] }}}
+    tags={{{ [<sourceTiddler>format:titlelist[]addsuffix[ ?]] }}}
+    text=<<selection>>
+    caption="{{||Except }}"
+    priority={{{ [<sourceTiddler>get[priority]else[0]] }}}
+    interval={{$:/config/FishingCatchfish/requestInterval}}
+    due={{{ [{$:/config/FishingCatchfish/requestInterval}due[]] }}}
+    review=<<now "[UTC]YYYY0MM0DD0hh0mm0ssXXX">>
+    annotate-text=<<selection>>
+    annotate-prefix=<<selectionPrefix>>
+    annotate-suffix=<<selectionSuffix>>
+    annotate-colour="LightSkyBlue"
+    annotate-blend-mode={{$:/config/FishingCatchfish/excerptColorPattern}}
+/>

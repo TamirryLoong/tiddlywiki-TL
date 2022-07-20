@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835754
+creator: tamirry
+modified: 20220720044403312
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 84.组织细胞处于绝对不应期时，其兴奋性为【2006N3A】__A.无限大____B.大于正常____C.等于正常____D.小于正常____E.零__E
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P43）“细胞于此期的阈值无限大，兴奋性为零，其原因是大部分钠（或钙）通道已进入失活状态，不可能再次接受刺激而激活”（E对）。（P38）“细胞于此期的阈值无限大，兴奋性为零，其原因是大部分钠（或钙）通道已进入失活状态，不可能再次接受刺激而激活”（E对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-109">><<details label:"答案解析" src:"可兴奋细胞在发生一次兴奋后，其兴奋性将出现一系列周期性变化，依次为绝对不应期、相对不应期、超常期、低常期、正常期。绝对不应期是指在兴奋发生的最初一段时间内，无论施加多强的刺激，也不能使细胞再次兴奋的时期，“细胞在绝对不应期的兴奋性为零”这一说法不够严谨，因为绝对不应期大致相当于整个锋电位的持续时间，在锋电位升支期间，大部分Na⁺（或Ca²⁺）通道已处于激活状态，不存在再激活的问题，只有在锋电位降支期间，细胞的兴奋性才为零，细胞暂时失去兴奋性。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-109">>

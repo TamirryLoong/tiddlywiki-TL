@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835249
+creator: tamirry
+modified: 20220720044403305
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 67.神经细胞膜在受刺激兴奋时通透性最大的离子是【2002N94B】__A.NA⁺____B.K⁺____C.CA²⁺____D.Cl⁻____E.HCO₃⁻__A
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（八版生理学P32）“当细胞受到有效刺激时，细胞膜的GNa将首先增大，Na⁺在较大的电-化学驱动力推动下流入胞内，Na⁺内流引起的去极化达到一定程度（即阈电位，见后文）后，去极化与GNa之间出现正反馈，使膜电位急剧上升，形成动作电位迅速上升的去极化和超射，到达接近ENa的峰值”（A对）。（P32）“当细胞受到有效刺激时，细胞膜的GNa将首先增大，Na⁺在较大的电-化学驱动力推动下流入胞内，Na⁺内流引起的去极化达到一定程度（即阈电位，见后文）后，去极化与GNa之间出现正反馈，使膜电位急剧上升，形成动作电位迅速上升的去极化和超射，到达接近ENa的峰值”（A对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-92">><<details label:"答案解析" src:"神经细胞在受刺激兴奋时，钠离子通道开放，发生去极化，去极化与钠离子电导（钠离子通透性）之间形成正反馈，Na⁺通道进入激活态（P39），通透性增加500～5000倍（A对），Na⁺内流形成动作电位的升支。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-92">>

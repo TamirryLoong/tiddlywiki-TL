@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835221
+creator: tamirry
+modified: 20220720044403304
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 65.神经细胞的静息电位是-70mv，钠离子的平衡电位是+60mv，钠离子的电-化学驱动力为多少【2016N3A】__A.-130mv____B.-10mv____C.+10mv____D.+130mv__A
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P36）“当细胞（以神经细胞为例）处于安静状态（图2-17 离子电-化学驱动力示意图）时，根据静息膜电位（Em=-70mV）、Na⁺平衡电位（ENa=+60mV）和K⁺平衡电位（Ek=-90mV）的数值，可求得Na⁺的电-化学驱动力为-130mV”（A对）。（P31）“如图2-14所示，当细胞（以神经细胞为例）处于安静状态时，根据静息膜电位（Em = -70mV）以及Na⁺平衡电位（ENa= +60mV）和K⁺平衡电位（Ek=-90mV）的数值，可分别求得 Na⁺和K⁺受到的电-化学驱动力，即Na⁺的电-化学驱动力=Em-ENa= -70mV-（+60mV）= -130mV（内向）”（A对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-90">><<details label:"答案解析" src:"钠离子的电-化学驱动力=静息电位-钠离子的平衡电位=-70mV-（+60mV）=-130mV（A对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-90">>

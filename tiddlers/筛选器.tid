@@ -1,0 +1,38 @@
+created: 20220527080002899
+creator: tamirry
+modified: 20220720044403357
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-type: idea or mark
+title: 筛选器
+type: text/vnd.tiddlywiki
+领域: data
+
+[[官方介绍链接|https://bramchen.github.io/tw5-docs/zh-Hans/#Filters:%24%3A%2FControlPanel%20HelloThere%20TiddlerFields%20ListField%20Filters%20%5B%5BFilter%20Syntax%5D%5D%20%5B%5BFilter%20Expression%5D%5D%20Tiddlers%20WikiText%20CheckboxWidget%20GettingStarted%20Community]]
+
+!!list筛选：
+* 侧边显示栏：（删去后侧的class等则显示为横向）：
+
+```
+<<tabs tabsList:"[tag[tag]!has[draft.of]]"class:"tc-vertical">> 
+```
+
+* 另一种方式：
+
+```
+<$list filter="[tag[tag]sort[title]]">
+<<currentTiddler> >
+{{||$:/core/ui/ViewTemplate/tags}}
+</$list>
+```
+标题筛选：regexp:title[标题筛选]
+
+字段筛选：field:字段名称[内容]、fields[字段名称]
+
+!!筛选逻辑：
+
+这是包含这个但不包含那个：`[tag[tag1]!tag[tag2]]`
+<br/>这是都包含：
+`[tag[tag1]tag[tag2]]`
+<br/>这是从筛选的里面减去的：
+`[tag[tag1]]-[tag[tag2]]`

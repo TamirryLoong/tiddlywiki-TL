@@ -1,0 +1,27 @@
+caption: {{||Question}}
+created: 20220713155436194
+creator: tamirry
+difficulty: 5
+due: 20220717043615752
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403335
+modifier: tamirry
+parent: 易化扩散 经通道 钾通道
+reps: 1
+retrievability: 1
+review: 20220715043615752
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: 钾通道的功能状态
+type: text/vnd.tiddlywiki
+
+✓钾通道的功能状态
+
+||静息态|激活态|
+|定义|安静时,激活门关闭的状态|去极化时，激活门开放的状态|
+|激活门|关闭|开放|
+|通透性|对离子不能导通|对离子可以导通|

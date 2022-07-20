@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220716074834726
+creator: tamirry
+difficulty: 5
+due: 20220718153413752
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403289
+modifier: tamirry
+reps: 1
+retrievability: 1
+review: 20220716153413752
+stability: 2
+tags: 绪论 生理学 习题 ? exported
+title: 26.在维持机体稳态的调节中，负反馈控制的特点是【2018N1A】__A.迅速____B.有波动____C.有预见性____D.有可能失误__B
+type: text/vnd.tiddlywiki
+章节: 生理学第一章绪论
+
+<<details label:"考点还原" src:"（八版生理学P8）“可见，反馈具有‘滞后’和‘波动’（B对）的缺点，而前馈则较快速（A错），并具有预见性（C错），因而适应性更大。但前馈控制有时会发生失误（D错），这是前馈控制的一个缺点”。（P8）“可见，反馈具有‘滞后’和‘波动’（B对）的缺点，而前馈则较快速（A错），并具有预见性（C错），因而适应性更大。 但前馈控制有时会发生失误（D错），这是前馈控制的一个缺点”。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-25">><<details label:"答案解析" src:"人体内包括反馈（P12）和前馈（P13）两种不同的控制系统，其中反馈包括负反馈和正反馈两种形式。负反馈具有反馈的滞后性和波动性（B对）特点。预见性（C错）和有可能失误（D错）为前馈的特点。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-25">>

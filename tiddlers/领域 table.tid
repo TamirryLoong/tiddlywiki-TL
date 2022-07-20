@@ -1,0 +1,44 @@
+created: 20220622083417809
+creator: tamirry
+modified: 20220720044403341
+modifier: tamirry
+tags: exported
+tbl-add-records: 
+tbl-anything: 
+tbl-button-actions: <$action-sendmessage $message="tm-new-tiddler" $param=<<currentRecord>>/>
+tbl-button-icon: {{$:/core/images/clone-button}}
+tbl-button-tip: clone realm 1
+tbl-caption: <div style="text-align:left;">''Task Manager'' | //<$button class="tc-btn-invisible"><$action-sendmessage $message="tm-new-tiddler" $param="领域模板"/>''添加新领域 {{$:/core/images/new-button}}''</$button>//</div>
+tbl-checkbox-actions-selected: 
+tbl-checkbox-actions-unselected: 
+tbl-checkbox-field: 
+tbl-checkbox-tag: 
+tbl-checkbox-tip: 
+tbl-checkbox-value-selected: 
+tbl-checkbox-value-unselected: 
+tbl-class: tbl-style-default
+tbl-columns: tbl-expand-one title tags 领域
+tbl-expand: 域 table
+tbl-filter: [all[shadows+tiddlers]]+[field:领域[领域]]-[[领域模板]]-[[随记]]
+tbl-limit: 9999999
+tbl-mode: normal
+tbl-page-marker: 
+tbl-show-caption: true
+tbl-show-colgroup: false
+tbl-show-edit: false
+tbl-show-footer: false
+tbl-show-header: true
+tbl-show-mode: false
+tbl-show-pagination: false
+tbl-sort-by: title
+tbl-sort-negate: false
+tbl-sort-type: nsort
+tbl-style-colgroup: 
+tbl-style-container: 
+tbl-style-table: 
+tbl-type: 
+title: 领域 table
+type: text/vnd.tiddlywiki
+领域: data
+
+<<table>>

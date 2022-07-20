@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074834558
+creator: tamirry
+modified: 20220720044403242
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 116.能使骨骼肌发生完全强直收缩的刺激条件是【2008N3A】__A.足够强度的单个阈刺激____B.足够持续时间的单个阈刺激____C.间隔小于收缩期的一串阈刺激____D.间隔大于收缩期的一串阈刺激__C
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P54）“若后一次收缩过程叠加在前一次收缩过程的收缩期，所产生的收缩总和称为完全强直收缩”（C对）。（P50）“若后一次收缩过程叠加在前一次收缩过程的收缩期，所产生的收缩总和称为完全强直收缩”（C对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-141">><<details label:"答案解析" src:"肌肉接受一连串间隔时间很短的刺激时，后一个刺激落在前一个刺激所引起的收缩（包括收缩期和舒张期）尚未结束之前，导致肌肉一直处于收缩的状态，称为强直收缩。当刺激频率比较高时，后一刺激引起的收缩落在前一收缩的收缩期内（C对），肌肉将始终保持收缩状态，这种现象称为完全强直收缩。当刺激频率比较低时，后一刺激引起的收缩落在前一收缩的舒张期内，肌肉在收缩后有过短暂的舒张，但还未恢复到正常的舒张状况又进入下一次收缩，这种现象称为不完全强直收缩。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-141">>

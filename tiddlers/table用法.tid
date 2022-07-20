@@ -1,0 +1,42 @@
+created: 20220619064023294
+creator: tamirry
+modified: 20220720044403448
+modifier: tamirry
+tags: shiraz排版插件 exported
+tbl-type: idea or mark
+title: table用法
+type: text/vnd.tiddlywiki
+领域: data
+
+* $:/plugins/aaldrich/tables/style/dark：是dark主题table
+* $:/plugins/aaldrich/tables/style/default：是正常主题
+* $:/plugins/aaldrich/task-manager：一个插件
+*tbl-checkbox：是checkbox（现阶段应该也用不上）
+*tbl-expand-many：是展开（可以在expand里面选择编辑）
+* tbl-delete：提供一个删除项
+* $:/plugins/aaldrich/tables/template/body/anything（table单选模板）
+* tbl-anything：加入单选多选（和上述和用）
+* tbl-caption：修改标头内容（可以加入一些内容，参考task manager）
+* [!is[system]search[]]：是正常recent里面的可显示的内容
+<<details label:"task-manager-table 模板用法" 
+src:"
+* tbl-caption：中修改模板等
+* tbl-expand：中修改展开的内容（相当于连接table，真正的连接在模板）
+* tbl-filter：中修改筛选的内容（否则展示的就不是本来的内容）
+* tbl-show-edit：true相当于加入修改栏
+"  
+status:"" labelClass:"bg-secondary
+ text-white" >>
+
+上述的模板：
+<<list-links "[tag[table 模板]sort[title]]">>
+
+* 放sidebar时需要放一个嵌入用的tidder
+
+!!shiraz
+* 形成table（shiraz）：
+`<$macrocall $name=table-dynamic filter="[prefix[]tag[]]" fields="tbl-expand title tags " class="w-100" stateTiddler="your-state-tid"/>`
+
+* due-date（shiraz）：用于选择日期
+* $:/plugins/kookma/shiraz/templates/body/status（table单选模板）
+

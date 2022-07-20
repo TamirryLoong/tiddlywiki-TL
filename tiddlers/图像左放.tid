@@ -1,0 +1,11 @@
+caption: 图像左放
+created: 20220627115147021
+creator: tamirry
+modified: 20220720044403371
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: 图像左放
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<<image-basic 图（灵感tw用）/.jpg width:"60%" align:"left" caption:""  alt:"">>

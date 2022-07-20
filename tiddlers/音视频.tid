@@ -1,0 +1,15 @@
+caption: 音视频
+created: 20220524030242554
+creator: tamirry
+modified: 20220720044403403
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: 音视频
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<video width=100% src="'
+    文件名称" poster="需要加载的图片" controls>
+</video>
+
+音频：+  height="30"

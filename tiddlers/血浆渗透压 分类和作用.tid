@@ -1,0 +1,26 @@
+caption: {{||Question}}
+created: 20220712141258028
+creator: tamirry
+difficulty: 5
+due: 20220718033752758
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403389
+modifier: tamirry
+parent: 血浆渗透压
+reps: 1
+retrievability: 1
+review: 20220716033752758
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: 血浆渗透压 分类和作用
+type: text/vnd.tiddlywiki
+
+✓分类和作用
+
+* 晶体渗透压——细胞内外水的平衡（和细胞的正常的体积）
+* 胶体渗透压——血管内外水的平衡（和维持正常的血浆容量）
+* ——数量取胜，总渗透压决定于晶体渗透压中的Na+和Cl-（80%），胶体渗透压则主要是白蛋白（75%~80%）

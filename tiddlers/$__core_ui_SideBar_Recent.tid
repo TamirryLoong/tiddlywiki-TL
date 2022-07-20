@@ -1,0 +1,10 @@
+caption: {{$:/language/SideBar/Recent/Caption}}
+list-before: $:/core/ui/SideBar/More
+modified: 20220622154055124
+modifier: tamirry
+tags: $:/tags/SideBar
+title: $:/core/ui/SideBar/Recent
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}}/>
+

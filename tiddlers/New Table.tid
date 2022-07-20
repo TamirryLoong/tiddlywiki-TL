@@ -1,0 +1,42 @@
+created: 20220622142400026
+creator: tamirry
+modified: 20220720044403436
+modifier: tamirry
+tags: exported
+tbl-add-records: 
+tbl-anything: 
+tbl-button-actions: 
+tbl-button-icon: {{$:/core/images/menu-button}}
+tbl-button-tip: 
+tbl-caption: ''{{!!title}}''
+tbl-checkbox-actions-selected: 
+tbl-checkbox-actions-unselected: 
+tbl-checkbox-field: 
+tbl-checkbox-tag: 
+tbl-checkbox-tip: 
+tbl-checkbox-value-selected: 
+tbl-checkbox-value-unselected: 
+tbl-class: tbl-style-default
+tbl-columns: tbl-expand title modified tags 域 领域
+tbl-expand: $:/plugins/aaldrich/tables/template/expand/transclude
+tbl-filter: [!is[system]search[]]
+tbl-limit: 20
+tbl-mode: normal
+tbl-page-marker: 钠通道的三种功能状态
+tbl-show-caption: true
+tbl-show-colgroup: false
+tbl-show-edit: true
+tbl-show-footer: false
+tbl-show-header: true
+tbl-show-mode: true
+tbl-show-pagination: auto
+tbl-sort-by: modified
+tbl-sort-negate: true
+tbl-sort-type: nsort
+tbl-style-colgroup: 
+tbl-style-container: 
+tbl-style-table: width:100%;
+title: New Table
+type: text/vnd.tiddlywiki
+
+<<table "New Table">>

@@ -1,0 +1,51 @@
+created: 20220522031120587
+creator: tamirry
+modified: 20220720044403418
+modifier: tamirry
+stream-list: 
+stream-type: default
+tags: wiki使用方式 exported
+tbl-type: idea or mark
+title: f220522.1 插件使用方式
+type: text/vnd.tiddlywiki
+基本类型: 
+领域: feedback
+
+[[TiddlyWiki toolmap|https://dynalist.io/d/zUP-nIWu2FFoXH-oM7L7d9DM]]（一个插件网站）<br/>
+升级核心的时候记得同时升级官方的库
+<<details label:"增加功能：" 
+src:"
+* $:/plugins/linonetwo/inverse-link-and-folder：是用于一个反向链接的插件
+* $:/plugins/stobot/sticky：todo专用东西
+*$:/plugins/TheDiveO/FontAwesome：一个查找添加表情用的玩意（类似于外链图像？？） [[链接|http://thediveo.github.io/TW5FontAwesome/output/fontawesome.html]]
+* $:/plugins/kookma/utility：用于显示字段并进行编辑
+* $:/plugins/tesseract/snapshot：时间快照（用于[[timimi]]保存）
+* $:/plugins/kookma/trashbin：回收站
+* $:/plugins/wikilabs/space-space-newline：硬换行（markdown式的）
+* $:/plugins/kookma/timelines：时间线
+* 链接型图片拖放[[地址|https://sextant.space/#DropCanonicalURI]][[DropCanonicalURI]]
+* $:/plugins/commons/file-uploads-fission：拖拉并上传图床用[[地址|https://saqimtiaz.github.io/tw5-file-uploads/]]
+* $:/plugins/tiddlywiki/xlsx-utils：表格录入方式
+* $:/plugins/linonetwo/copy-on-select：选中就复制
+"  
+status:"open" labelClass:"bg-secondary text-white" >>
+
+<<details label:"一些奇怪的插件：" 
+src:"
+* $:/plugins/tiddlywiki/innerwiki（不记得在哪里有了）：是可以在条目下插入内部wiki的东西，可以一直嵌套
+* $:/plugins/linonetwo/itonnote [[太微中文教程]]：是一系列小插件
+"  
+status:"open"labelClass:"bg-secondary text-white" >>
+
+<<details label:"插件库：" 
+src:"
+* $:/config/KookmaPluginLibrary：kookma的
+* $:/config/TiddlyWiki-CPL/Netlify
+"  
+status:"" labelClass:"bg-secondary text-white" >>
+
+<<details label:"其他插件" 
+src:"
+{{插件}}
+"  
+labelClass:"bg-secondary text-white" >>

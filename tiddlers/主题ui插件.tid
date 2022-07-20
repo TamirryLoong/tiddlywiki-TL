@@ -1,0 +1,35 @@
+created: 20220527074524343
+creator: tamirry
+modified: 20220720044403410
+modifier: tamirry
+tags: 插件 exported
+tbl-type: idea or mark
+title: 主题ui插件
+type: text/vnd.tiddlywiki
+领域: data
+
+!!主题like：
+* $:/plugins/Gk0Wk/notionpage-covericon：用于<<tag "notion">>-like的页面
+* $:/plugins/Gk0Wk/notionpage-backlink：<<tag "notion">>的配套反向链接？
+* $:/plugins/Gk0Wk/TiddlySeq<<tag "在测试文件中">>：<<tag "Logseq">>-like的主题。（必须配合Vanilla主题，并且配合menubar和opened-tiddlers-bar最好看和好用哦，但会使得顶端下拉菜单失效）
+!!UI：
+* $:/plugins/tiddlywiki/menubar：是用于最上面的菜单栏（可以添加目录二字添加如菜单栏，很方便~）<$button message="tm-navigate" to="menubar用法">menubar用法</$button>
+* $:/plugins/Gk0Wk/sidebar-resizer：用于用鼠标即可更改侧边菜单栏的宽度
+* $:/plugins/kookma/toc：用于加入侧边菜单栏的目录条目，可以无限加条目并放入设置的内容，请参照<<tag "feedbackx">>
+* $:/plugins/kookma/favorites：用于收藏（文件夹于侧边栏点击管理标志即可添加，需要收藏的卡片可以直接拖放至侧边栏添加）
+* $:/plugins/linonetwo/opened-tiddlers-bar<<tag "在测试文件中">>：是一个可以在顶端显示打开条目的插件
+* $:/plugins/tg/tiddlersbar<<tag "在测试文件中">>：类似`opened-tiddlers-bar`
+* $:/plugins/jd/mob：适用于类手机窄边框的情景中的插件，重新组装侧边菜单栏
+
+!!布景主题：
+* $:/themes/nico/notebook：是一个好看的主题，极简风
+* $:/themes/jd/Whitespace：是一个可以将侧边栏隐藏的主题
+
+!!可以借鉴的布局：
+
+* [[menubar作者主页|http://tongerner.tiddlyspot.com/]]
+* [[多列布局插件页面|https://multicolumn-test.tiddlyhost.com/]]
+* 用于字体的转换[[地址|https://fontmanager.tiddlyhost.com/]]
+（滚吧，算了不搞了，没心情，谢谢-220527）
+
+back to<<tag "f220522.1 插件使用方式">>

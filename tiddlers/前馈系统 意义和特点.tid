@@ -1,0 +1,27 @@
+caption: {{||Question}}
+created: 20220712141258028
+creator: tamirry
+difficulty: 5
+due: 20220717044250928
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403351
+modifier: tamirry
+parent: 前馈控制系统
+reps: 1
+retrievability: 1
+review: 20220715044250928
+stability: 2
+stream-list: 
+stream-type: default
+tags: 生理学 ? exported
+title: 前馈系统 意义和特点
+type: text/vnd.tiddlywiki
+
+✓意义和特点：
+
+* 在于避免负反馈调节时矫枉过正产生的波动和反应的''滞后现象''
+* 使调节控制更快、更准确
+* 有预见性，但有一定误差

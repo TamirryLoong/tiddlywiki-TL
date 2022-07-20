@@ -1,0 +1,18 @@
+created: 20220701074509606
+creator: tamirry
+modified: 20220720044403448
+modifier: tamirry
+tags: 插件 exported
+title: streams
+type: text/vnd.tiddlywiki
+
+[[地址|https://saqimtiaz.github.io/streams/]]  
+[[SQPL库|https://saqimtiaz.github.io/SQPL/]]   
+[[SQPL]]
+
+* $:/plugins/sq/streams：本体
+* $:/plugins/flibbles/relink：配合插件
+* $:/plugins/flibbles/relink-titles：配合插件
+* $:/plugins/phiv/streams-fusion：一个菜单？
+
+这个可以直接拉进来，但是需要删除并保存条目时需要清楚两边的字段内容

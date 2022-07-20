@@ -1,0 +1,13 @@
+created: 20200327100826751
+creator: tamirry
+modified: 20220706073519283
+modifier: tamirry
+tags: $:/tags/Stylesheet
+title: $:/plugins/kookma/trashbin/styles/show-trashed
+type: text/vnd.tiddlywiki
+
+[data-tags~="$:/tags/trashbin"] .tc-tiddler-body,
+[data-tags~="$:/tags/trashbin"] .tc-tags-wrapper
+{
+ display:none;
+}

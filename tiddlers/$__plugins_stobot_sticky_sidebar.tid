@@ -1,0 +1,11 @@
+caption: Sticky
+created: 20210904212917036
+creator: tamirry
+list-before: TheBrain
+modified: 20220622153947169
+modifier: tamirry
+tags: $:/tags/SideBar
+title: $:/plugins/stobot/sticky/sidebar
+type: text/vnd.tiddlywiki
+
+<<sticky-sidebar>>

@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074834550
+creator: tamirry
+modified: 20220720044403238
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 111.心肌兴奋-收缩耦联中，由肌质网释放的Ca²⁺占胞质Ca²⁺增量的百分比是【2014N121B】__A.30%～40%____B.50%～60%____C.80%～90%____D.100%__C
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P109）“心肌兴奋时，细胞外Ca²⁺（10%～20%）经肌膜中和横管膜中的L型钙通道流入胞质后，触发肌质网释放大量Ca²⁺（80%～90%）（C对）而使胞内Ca²⁺浓度升高引起心肌收缩，这一过程也称为钙诱导钙释放”。（P48）“而在心肌，由JSR释放的Ca²⁺仅占80%～90%，另有10%～20%的Ca²⁺则由细胞外经L型钙通道内流而来”（C对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-136">><<details label:"答案解析" src:"在兴奋-收缩耦联过程中，骨骼肌胞质内增加的Ca²⁺几乎全部来自连接肌质网（JSR）的释放，而在心肌，连接肌质网释放的Ca²⁺仅占80%～90%（C对），另有10%～20%的Ca²⁺则由细胞外经L型钙通道内流而来。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-136">>

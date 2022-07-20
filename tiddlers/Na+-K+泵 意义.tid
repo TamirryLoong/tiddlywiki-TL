@@ -1,0 +1,30 @@
+caption: {{||Question}}
+created: 20220714102033655
+creator: tamirry
+difficulty: 5
+due: 20220717050713037
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403435
+modifier: tamirry
+parent: Na+-K+泵
+reps: 1
+retrievability: 1
+review: 20220715050713037
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: Na+-K+泵 意义
+type: text/vnd.tiddlywiki
+
+✓意义：
+
+# 维持细胞膜内外Na+、K+浓度差。
+# 钠泵活动造成的细胞内高K+为胞质内许多代谢反应所必需——如核糖体合成蛋白质就需要高K'环境。
+# 维持胞内渗透压和细胞容积。——以防''细胞水肿''。
+# 钠泵活动形成的Na+和K+跨膜浓度梯度是细胞发生电活动（如[[静息电位]]和[[动作电位]]）的基础。
+# 钠泵活动的''生电效应''可使膜内电位的负值增大——直接参与[[静息电位]]的形成。
+# 钠泵活动建立的Na+跨膜浓度梯度可为[[继发性主动转运]]提供''势能储备''。——如葡萄糖、氨基酸在小肠和肾小管被吸收的过程中，逆浓度梯度转运都是利用Na+经主动转运造成的跨膜浓度梯度作为驱动力。
+# [[哇巴因]]是钠泵的特异性抑制剂。（E2时阻断）

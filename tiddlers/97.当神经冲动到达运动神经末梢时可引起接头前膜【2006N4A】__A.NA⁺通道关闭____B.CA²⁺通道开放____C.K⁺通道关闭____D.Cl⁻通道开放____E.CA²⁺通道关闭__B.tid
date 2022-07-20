@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835982
+creator: tamirry
+modified: 20220720044403318
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 97.当神经冲动到达运动神经末梢时可引起接头前膜【2006N4A】__A.NA⁺通道关闭____B.CA²⁺通道开放____C.K⁺通道关闭____D.Cl⁻通道开放____E.CA²⁺通道关闭__B
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P47）“接头前膜产生的动作电位通过激活前膜中的电压门控钙通道，导致Ca²⁺内流而触发囊泡的出胞”（B对）。（P44）“接头前膜产生的动作电位需通过激活前膜中的电压门控钙通道，导致Ca²⁺内流而触发囊泡的出胞”（B对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-122">><<details label:"答案解析" src:"神经-肌接头处兴奋传导的具体过程为：运动神经纤维传到末梢的动作电位激活接头前膜中的电压门控钙通道开放（B对），导致Ca²⁺内流而触发接头前膜Ca²⁺依赖性突触囊泡出胞，释放ACh至接头间隙，再由ACh激活终板膜中的N₂型ACh受体阳离子通道，产生Na⁺内流和K⁺外流（以Na⁺内流为主），导致膜电位改变，最终引起肌细胞兴奋。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-122">>

@@ -1,0 +1,30 @@
+created: 20220527083952756
+creator: tamirry
+modified: 20220720044403415
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-type: idea or mark
+title: checkbox用法
+type: text/vnd.tiddlywiki
+领域: data
+
+[[官方介绍链接|https://bramchen.github.io/tw5-docs/zh-Hans/#CheckboxWidget:%24%3A%2FControlPanel%20%24%3A%2Fplugins%2Ftiddlywiki%2Fmenubar%20HelloThere%20TiddlerFields%20ListField%20Filters%20%5B%5BFilter%20Syntax%5D%5D%20%5B%5BFilter%20Expression%5D%5D%20Tiddlers%20WikiText%20CheckboxWidget]]
+
+*用于两列型checkbox：
+```
+! Outstanding tasks
+<$list filter="[!has[draft.of]tag[tag]!tag[done]sort[created]]">
+<$checkbox tag="done"> <$link/></$checkbox>
+</$list>
+! Completed tasks
+<$list filter="[!has[draft.of]tag[tag]tag[done]sort[created]]">
+<$checkbox tag="done"> ~~<$link/>~~</$checkbox>
+</$list>
+```
+这里是完成和非完成筛选，直接修改里面的tag即可，可以加入其他筛选机制，如标题筛选等
+
+* 一个打tag用的？checkbox？
+
+```
+<$checkbox tag="tag"> </$checkbox>
+```

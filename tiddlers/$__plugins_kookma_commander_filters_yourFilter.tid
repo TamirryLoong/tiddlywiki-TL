@@ -1,0 +1,9 @@
+created: 20220714045402101
+creator: tamirry
+description: ✔
+filter: [{$:/temp/fishing!!fishingrod}addprefix[$:/plugins/oflg/fishing/fishingrod/]] [{$:/temp/fishing!!fishingrod}addprefix[$:/plugins/oflg/fishing/fishingrod/]shadowsource[]] [subfilter{$:/temp/fishing!!fishingrod}is[tiddler]] [{$:/temp/fishing!!fishingrod}addprefix[$:/plugins/oflg/fishing/fishingrod/]shadowsource[]plugintiddlers[]is[tiddler]]
+modified: 20220716075721520
+modifier: tamirry
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/yourFilter
+type: text/vnd.tiddlywiki

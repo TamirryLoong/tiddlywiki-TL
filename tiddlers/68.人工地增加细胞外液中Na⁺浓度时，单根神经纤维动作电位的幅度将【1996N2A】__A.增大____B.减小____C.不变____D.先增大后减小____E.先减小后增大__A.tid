@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835264
+creator: tamirry
+modified: 20220720044403306
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 68.人工地增加细胞外液中Na⁺浓度时，单根神经纤维动作电位的幅度将【1996N2A】__A.增大____B.减小____C.不变____D.先增大后减小____E.先减小后增大__A
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P38）“若将细胞外液中的Na⁺用其他物质取代或给予钠通道阻断剂TTX后，神经纤维动作电位的幅度将下降或消失”（A对）。（P33）“若将细胞外液中的Na⁺用其他物质取代或给予钠通道阻断剂TTX后，神经纤维动作电位的幅度将下降或消失”（A对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-93">><<details label:"答案解析" src:"动作电位幅度=静息电位绝对值（接近于K⁺的平衡电位）+超射值（接近Na⁺的平衡电位）。增加细胞外液Na⁺浓度，会加大细胞外液与细胞内液之间的浓度差，Na⁺内流增多，超射值增大，动作电位的幅度也增大（A对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-93">>

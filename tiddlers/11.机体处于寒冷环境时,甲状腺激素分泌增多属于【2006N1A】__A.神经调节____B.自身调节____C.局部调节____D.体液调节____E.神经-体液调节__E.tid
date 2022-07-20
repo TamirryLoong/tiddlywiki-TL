@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220716074834543
+creator: tamirry
+difficulty: 5
+due: 20220718153402631
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403234
+modifier: tamirry
+reps: 1
+retrievability: 1
+review: 20220716153402631
+stability: 2
+tags: 绪论 生理学 习题 ? exported
+title: 11.机体处于寒冷环境时,甲状腺激素分泌增多属于【2006N1A】__A.神经调节____B.自身调节____C.局部调节____D.体液调节____E.神经-体液调节__E
+type: text/vnd.tiddlywiki
+章节: 生理学第一章绪论
+
+<<details label:"考点还原" src:"（P11）“人体内也有很多内分泌腺的活动接受来自神经和体液的双重调节，称为‘神经-体液调节’”（P220）“寒冷刺激可使位于下丘脑后部的战栗中枢兴奋，经传出通路到达脊髓前角运动神经元，引起战栗；还能引起下丘脑释放促甲状腺激素释放激素，后者刺激腺垂体释放促甲状腺激素，从而促进甲状腺产生和分泌甲状腺激素”（E对）。（P6）“人体内多数内分泌腺或内分泌细胞接受神经的支配”。（P232）“上述寒冷环境下甲状腺激素释放的机制也是通过神经系统完成的，即寒冷刺激沿上行的神经传导通路进入中枢神经系统，引起下丘脑释放促甲状腺激素释放激素，后者再刺激腺垂体释放促甲状腺激素，从而促进甲状腺产生和分泌甲状腺激素”（E对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-10">><<details label:"答案解析" src:"机体处于寒冷环境时，外周温度感受器兴奋，信息传递至中枢神经系统引起交感神经兴奋，进而促进下丘脑释放促甲状腺激素释放激素，经“下丘脑-垂体-甲状腺”轴，最终促进甲状腺激素的分泌，在此过程中，体液调节是神经调节的一个传出环节，为典型的神经-体液调节过程（E对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-10">>

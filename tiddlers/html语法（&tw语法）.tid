@@ -1,0 +1,28 @@
+created: 20220526032555331
+creator: tamirry
+modified: 20220720044403423
+modifier: tamirry
+tags: wiki使用方式 exported
+tbl-type: idea or mark
+title: html语法（&tw语法）
+type: text/vnd.tiddlywiki
+领域: data
+
+一部分在<<tag "TextEditor/Snippet">> 中体现，<br/>
+这里写一部分也是测试用的，更好运用html的格式书写内容，<br>
+以免之后运用出错。（主要也是不常用的一些）<p>
+
+<$button message="tm-navigate" to="TextEditor/Snippet">打开 ~TextEditor/Snippet</$button>
+<p>
+<<details label:"嵌入视频代码记录" 
+src:"
+{{嵌入视频代码记录}}
+"  
+status:"" labelClass:"bg-secondary text-white" >>
+
+<p>
+[[目录宏|https://bramchen.github.io/tw5-docs/zh-Hans/#Table-of-Contents%20Macros%20(Examples):%24%3A%2Fplugins%2Ftiddlywiki%2Fmenubar%20%24%3A%2Ftags%2FMenuBar%20%24%3A%2FControlPanel%20%5B%5BTable-of-Contents%20Macros%5D%5D%20%5B%5BTable-of-Contents%20Macros%20(Examples)%5D%5D%20%5B%5BWidgetMessage%3A%20tm-fold-all-tiddlers%5D%5D%20LogWidget%20ActionLogWidget%20ListWidget%20Widgets%20ButtonWidget%20KeyboardWidget%20%5B%5BKeyboard%20Codes%5D%5D%20HelloThere%20TiddlerFields%20ListField%20Filters%20%5B%5BFilter%20Syntax%5D%5D%20%5B%5BFilter%20Expression%5D%5D%20Tiddlers%20WikiText%20%5B%5BHeadings%20in%20WikiText%5D%5D%20%5B%5BHard%20Linebreaks%20in%20WikiText%5D%5D%20%5B%5BHTML%20in%20WikiText%5D%5D%20CheckboxWidget]]
+<hr>
+
+<<tabs tabsList:"[tag[html语法（&tw语法）]!has[draft.of]]">> 
+

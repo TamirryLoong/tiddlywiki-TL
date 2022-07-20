@@ -1,0 +1,30 @@
+created: 20220527084339195
+creator: tamirry
+modified: 20220720044403430
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-type: idea or mark
+title: Link
+type: text/vnd.tiddlywiki
+基本类型: 
+领域: data
+
+!!Link:
+* 一个用于外链的东西：(网页、html、音视频等）
+```
+<iframe width="1080" height="720" src="链接" frameborder="0" allowfullscreen></iframe>
+```
+* 额外的图片链接逻辑：
+
+```
+[img class="tc-image" [example.jpg]]
+
+```
+此几种是不改变文件大小的方式进行放置的，
+也就是说，wiki可以自己读取同级文件夹下的文件，
+如果是下级需要加入下级的名称，如果是未知可以加入全局搜索的内容，即盘：\xx\图片（仅为上级不可）
+如果是外链非嵌入格式如上述最后一个（需要稳定源）
+
+* 外链pdf显示：
+** type：application/pdf<br/>
+** _canonical_uri:图（灵感tw用）/.pdf

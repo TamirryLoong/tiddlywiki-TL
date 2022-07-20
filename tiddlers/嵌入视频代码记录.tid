@@ -1,0 +1,27 @@
+created: 20220601055012479
+creator: tamirry
+modified: 20220720044403352
+modifier: tamirry
+tags: exported
+tbl-type: idea or mark
+title: 嵌入视频代码记录
+type: text/vnd.tiddlywiki
+领域: data
+
+!bili（修改过的）
+
+```
+<iframe src="https://player.bilibili.com/player.html?aid=294433270&bvid=BV1DF411b77L&cid=449622248&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+```
+
+!腾讯
+
+```
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=n00166dekrh" allowFullScreen="true"></iframe>
+```
+
+!优酷(修改过）
+
+```
+<iframe width="100%" height="500" src="https://player.youku.com/embed/XNTc0MDk2MjA0" frameborder=0 allowfullscreen="allowfullscreen"></iframe>
+```

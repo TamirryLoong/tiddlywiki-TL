@@ -1,0 +1,20 @@
+created: 20220619052603903
+creator: tamirry
+modified: 20220720044403447
+modifier: tamirry
+tags: 插件 exported
+tbl-type: idea or mark
+title: shiraz排版插件
+type: text/vnd.tiddlywiki
+领域: data
+
+* $:/plugins/kookma/shiraz：用于文字图片等排版（花式，花里胡哨的那种）
+
+!用法
+* sticky-footer：粘贴页脚。用此为字段名称命名，可显示与页脚。（可以用很多内容，但是过大会覆盖上面的内容……）
+* table：$:/plugins/aaldrich/tables已经用这个代替了（ 类似notion的table列表  [[链接|http://tiddlytables.tiddlyspot.com/]] ）
+<<details label:"table用法" 
+src:"
+{{table用法}}
+"  
+srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-1">>

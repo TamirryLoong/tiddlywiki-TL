@@ -1,0 +1,11 @@
+created: 20220701100933576
+creator: tamirry
+modified: 20220720044403454
+modifier: tamirry
+tags: 插件 exported
+title: TiddlyWiki XP
+type: text/vnd.tiddlywiki
+
+ [[TiddlyWiki XP|https://keatonlao.github.io/tiddlywiki-xp/]](有很多功能可以借鉴，但是大多有点个把子磕碜）
+
+* $:/plugins/xp/quickbar：一个不大好用的东西（但是可以特殊方式解决）算是一个底部工具栏

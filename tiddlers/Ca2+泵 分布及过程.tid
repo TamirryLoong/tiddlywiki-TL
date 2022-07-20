@@ -1,0 +1,25 @@
+caption: {{||Question}}
+created: 20220714112906744
+creator: tamirry
+difficulty: 5
+due: 20220717050248572
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403414
+modifier: tamirry
+parent: Ca2+泵
+reps: 1
+retrievability: 1
+review: 20220715050248572
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: Ca2+泵 分布及过程
+type: text/vnd.tiddlywiki
+
+✓分布及过程：
+
+* 细胞膜（消耗1分子ATP转运1Ca2+到胞外)
+* 肌浆网、内质网、线粒体（1次转运2Ca2+到细胞器内）

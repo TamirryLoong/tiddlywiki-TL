@@ -1,0 +1,27 @@
+caption: {{||Question}}
+created: 20220714140202530
+creator: tamirry
+difficulty: 5
+due: 20220717043902399
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403340
+modifier: tamirry
+parent: 离子通道型受体
+reps: 1
+retrievability: 1
+review: 20220715043902399
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: 离子通道型受体 分类和特点
+type: text/vnd.tiddlywiki
+
+✓分类和特点：
+
+* 钠离子内流通道:：Ach (N) ;谷氨酸(iGluR)
+* 氯离子内流通道：甘氨酸(GlyR) ; y-氨基丁酸(GABAa)
+* 电压门控通道和机械门控通道，归入离子通道型受体介导的信号转导中
+* 跨膜离子电流：路径简单和速度快，适于完成神经电信号的快速传递

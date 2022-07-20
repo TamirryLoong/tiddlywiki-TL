@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074834755
+creator: tamirry
+modified: 20220720044403290
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 29.心肌细胞外Na⁺浓度增高时【1989N148X】__A.NA⁺-CA²⁺交换增强____B.NA⁺-K⁺交换减弱____C.细胞内CA²⁺浓度降低____D.细胞内K⁺浓度升高__AC
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（七版生理学P13）“当细胞内的Na⁺浓度升高或细胞外的K⁺浓度升高时，都可使钠泵激活，以维持细胞内外的Na⁺、K⁺浓度梯度”（D错）。（二版八年制生理学P23）“如果用哇巴因抑制钠泵的活动，将减低Na⁺的跨膜浓度梯度，从而减小Na⁺-Ca²⁺交换的速率，造成细胞内Ca²⁺浓度升高”（AC对）。（七版生理学P13）“当细胞内的Na⁺浓度升高或细胞外的K⁺浓度升高时，都可使钠泵激活，以维持细胞内外的Na⁺、K⁺浓度梯度”（D错）。（二版八年制生理学P23）“如果用哇巴因抑制钠泵的活动，将减低Na⁺的跨膜浓度梯度，从而减小Na⁺-Ca²⁺交换的速率，造成细胞内Ca²⁺浓度升高”（AC对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-54">><<details label:"答案解析" src:"钠泵的重要功能之一就是维持细胞内外的Na⁺、K⁺浓度梯度，这是细胞发生电活动的基础。当细胞内的Na⁺浓度升高时，细胞内外的Na⁺浓度差减小，钠泵被激活，将细胞内多余的Na⁺排出细胞外，维持细胞内外正常的Na⁺浓度差，而当细胞外Na⁺浓度升高时，细胞内外的Na⁺浓度差增大，钠泵则被抑制，抑制Na⁺排出细胞外，同时也抑制了K⁺进入细胞内，细胞内K⁺浓度降低（D错）。Na⁺-Ca²⁺交换和Na⁺-K⁺交换属于继发性主动转运，其驱动力来自Na⁺的跨膜浓度梯度，Na⁺顺浓度梯度内流的同时，带动Ca²⁺和K⁺外流，当细胞外Na⁺浓度升高时，Na⁺顺浓度梯度内流增加，Na⁺-Ca²⁺交换和Na⁺-K⁺交换均增强（A对B错）。Na⁺-Ca²⁺交换增强，Ca²⁺外流增多，细胞内Ca²⁺浓度降低（C对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-54">>

@@ -1,0 +1,9 @@
+created: 20220622143323572
+creator: tamirry
+modified: 20220720044403384
+modifier: tamirry
+tags: exported
+title: 新条目
+type: text/vnd.tiddlywiki
+
+<$macrocall $name=table-dynamic filter="[field:域[todo]]" fields="tbl-expand title 域 tbl-type " class="w-100" stateTiddler="your-state-tid"/>

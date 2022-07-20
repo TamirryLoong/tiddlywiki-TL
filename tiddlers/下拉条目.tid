@@ -1,0 +1,22 @@
+created: 20220529130134316
+creator: tamirry
+modified: 20220720044403383
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-type: idea or mark
+title: 下拉条目
+type: text/vnd.tiddlywiki
+领域: data
+
+
+```
+<$select tiddler='$:/generated-list-demo-state'>
+<$list filter='[tag[tag]]'>
+<option><$view field='title'/></option>
+</$list>
+</$select>
+<$tiddler tiddler={{$:/generated-list-demo-state}}>
+<$transclude mode='block'/>
+</$tiddler>
+```
+还不是很清楚这个东西是怎么搞嵌套版的或者两个决定内容，先阶段只能用一个

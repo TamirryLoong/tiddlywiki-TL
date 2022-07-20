@@ -1,0 +1,26 @@
+created: 20220531121435983
+creator: tamirry
+modified: 20220720044403430
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-type: idea or mark
+title: list-thumbnails
+type: text/vnd.tiddlywiki
+领域: data
+
+[[官方介绍|https://bramchen.github.io/tw5-docs/zh-Hans/#list-thumbnails%20Macro%20(Examples):%5B%5Blist-thumbnails%20Macro%5D%5D%20%5B%5Blist-thumbnails%20Macro%20(Examples)%5D%5D%20TiddlerFields%20Filters%20%5B%5BFilter%20Syntax%5D%5D%20%5B%5BFilter%20Expression%5D%5D%20Tiddlers%20WikiText]]
+
+```
+<<list-thumbnails filter:"[tag[rag]]" width:"168" height:"95">>
+```
+链接的图片需要
+通过一个tag或者其他的筛选形成图片列表，然后需要一些字段
+
+```
+caption：名称
+color：背景颜色或者是视频播放键颜色
+icon：{{$:/core/images/video}}为视频播放图标
+image：略缩图名称
+link：略缩图点击后指向目标（可以是同条目）
+
+```

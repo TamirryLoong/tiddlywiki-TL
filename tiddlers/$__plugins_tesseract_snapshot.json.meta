@@ -1,0 +1,10 @@
+author: Riz
+core-version: 5.1.16
+created: 20180824091547423
+description: Snapshot: Timestamped backups
+list: readme
+modified: 20180824091558164
+plugin-type: plugin
+title: $:/plugins/tesseract/snapshot
+type: application/json
+version: 1.0.5

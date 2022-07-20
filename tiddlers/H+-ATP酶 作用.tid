@@ -1,0 +1,26 @@
+caption: {{||Question}}
+created: 20220714114425172
+creator: tamirry
+difficulty: 5
+due: 20220717050402496
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403422
+modifier: tamirry
+parent: H+-ATP酶
+reps: 1
+retrievability: 1
+review: 20220715050402496
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: H+-ATP酶 作用
+type: text/vnd.tiddlywiki
+
+✓作用：氢泵不依赖K+
+
+* 可将H+由胞质内转运至溶酶体、内涵体、高尔基复合体、内质网、突触囊泡等细胞器内，
+* 以维持胞质的中性和细胞器内的酸性——使不同部位的酶都处于最适pH环境，
+* 同时也建立起跨细胞器膜的H+浓度梯度——为溶质的跨细胞器膜转运提供动力。

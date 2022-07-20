@@ -1,0 +1,11 @@
+caption: Trashbin
+created: 20190613131234955
+creator: tamirry
+list-after: 
+modified: 20220701125255033
+modifier: tamirry
+tags: $:/tags/SideBar
+title: $:/plugins/kookma/trashbin/sidebar-tab
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/kookma/trashbin/ui/sidebar}}

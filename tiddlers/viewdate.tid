@@ -1,0 +1,11 @@
+caption: viewdate
+created: 20220602053111496
+creator: tamirry
+modified: 20220720044403455
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: viewdate
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<$view field="created/modified" format="date" template="YYYY-MM-DD DDD "/>

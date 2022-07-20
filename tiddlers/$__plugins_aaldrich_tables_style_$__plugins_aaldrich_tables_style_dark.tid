@@ -1,0 +1,28 @@
+created: 20220619063839927
+creator: tamirry
+modified: 20220619063839933
+modifier: tamirry
+tags: $:/tags/Stylesheet
+tbl-class-name: $:/plugins/aaldrich/tables/style/dark
+tbl-class-type: child
+tbl-color-border: #DDDDDD
+tbl-color-caption: #DDDDDD
+tbl-color-footer: #F0F0F0
+tbl-color-header: #F0F0F0
+tbl-color-row-all: #FFFFFF
+tbl-color-row-even: #FCFCFC
+tbl-color-row-hover: #FFFEE2
+tbl-color-row-odd: #FFFFFF
+tbl-color-text: #000000
+tbl-color-text-hover: #001177
+tbl-pad-lr: 7px
+tbl-pad-tb-body: 2px
+tbl-pad-tb-headfoot: 4px
+tbl-size-font: {{$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize}}
+tbl-size-height: {{$:/themes/tiddlywiki/vanilla/metrics/bodylineheight}}
+tbl-size-icons: {{$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize}}
+tbl-width-border: 1px
+title: $:/plugins/aaldrich/tables/style/$:/plugins/aaldrich/tables/style/dark
+type: text/vnd.tiddlywiki
+
+{{||$:/plugins/aaldrich/tables/style/default}}

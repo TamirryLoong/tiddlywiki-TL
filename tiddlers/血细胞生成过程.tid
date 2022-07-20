@@ -1,0 +1,31 @@
+caption: {{||Question}}
+created: 20220712141258028
+creator: tamirry
+difficulty: 5
+due: 20220718034135597
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403392
+modifier: tamirry
+parent: 血细胞生理
+reps: 1
+retrievability: 1
+review: 20220716034135596
+stability: 2
+stream-list: 
+stream-type: default
+tags: 生理学 ? exported
+title: 血细胞生成过程
+type: text/vnd.tiddlywiki
+
+✓血细胞生成过程：
+<<image-basic 图（灵感tw用）/血细胞生成图.png width:"60%" align:"right" caption:""  alt:"">>
+
+* 造血干细胞——自我更新，多向分化，多处于G0期（分化后形成一个不成熟干细胞和相对成熟的干细胞，如果无法形成不成熟则可能形成疾病——[[再生障碍性贫血]]）带有CD34+
+* 定向祖细胞——定向分化
+* 前体细胞  
+
+* [[网织红细胞]]——红细胞成熟前一步（可以以此来判断红细胞增生的情况）
+* 血小板是巨核细胞的细胞碎片

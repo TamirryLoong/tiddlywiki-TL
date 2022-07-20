@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835199
+creator: tamirry
+modified: 20220720044403304
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 63.神经细胞在兴奋过程中，Na⁺内流和K⁺外流的量取决于【2008N2A】__A.各自平衡电位____B.细胞的阈电位____C.钠泵活动程度____D.所给刺激强度__A
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P35-P36）“根据平衡电位的定义，当膜电位（Em）等于某种离子的平衡电位（Ex）时，这种离子受到的电-化学驱动力等于零”。（P30）“根据平衡电位的定义，当膜电位（Em）等于某种离子的平衡电位（Ex）时，这种离子受到的电-化学驱动力等于零”。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-88">><<details label:"答案解析" src:"离子的跨膜流动的动力来源于该离子所受的电化学驱动力，平衡电位时，离子的电化学驱动力为零，Na⁺净内流和K⁺净外流就停止了，故神经细胞在兴奋过程中，Na⁺内流和K⁺外流的量取决于各自的平衡电位（A对）。钠泵活动增强时，细胞内外Na⁺和K⁺浓度差增大，兴奋时Na⁺内流（去极化）和K⁺外流（复极化）的数量均增多，钠泵活动程度能够影响Na⁺内流和K⁺外流的量，但不能决定Na⁺内流和K⁺外流的量（C错）。细胞的阈电位、所给刺激强度是兴奋（动作电位）发生的起始影响因素（阈电位下移，兴奋更容易发生；刺激强度达到阈强度才能发生兴奋），但并不会影响兴奋过程中，Na⁺内流和K⁺外流的量（BD错）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-88">>

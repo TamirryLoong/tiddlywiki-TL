@@ -1,0 +1,11 @@
+caption: Show toolbar in editor
+created: 20220710144201442
+creator: tamirry
+description: Enable toolbar in editor
+modified: 20220710150631070
+modifier: tamirry
+settings-template: $:/plugins/sq/streams/ui/templates/settings/input-switch
+title: $:/config/sq/streams/enable-edit-toolbar
+type: text/vnd.tiddlywiki
+
+yes

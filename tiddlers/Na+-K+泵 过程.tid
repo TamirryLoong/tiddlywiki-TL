@@ -1,0 +1,22 @@
+caption: {{||Question}}
+created: 20220714101851215
+creator: tamirry
+difficulty: 5
+due: 20220717050708102
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403435
+modifier: tamirry
+parent: Na+-K+泵
+reps: 1
+retrievability: 1
+review: 20220715050708102
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: Na+-K+泵 过程
+type: text/vnd.tiddlywiki
+
+✓过程：1分子ATP，2个K+移入胞内（E1状态），3个Na+移出胞外（E2状态）。

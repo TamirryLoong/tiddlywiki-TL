@@ -1,0 +1,36 @@
+created: 20220617113651830
+creator: tamirry
+modified: 20220720044403419
+modifier: tamirry
+tags: Table exported
+tbl-type: idea or mark
+title: f220621
+type: text/vnd.tiddlywiki
+领域: feedback
+
+tag（特点）
+
+* 系统tag
+* 文内data-tag
+* 关键词
+
+text（内容说明）
+
+title（标题）
+
+字段（文件夹）
+
+* 基本类型：事物记录、随笔、feedback、学习内容、data
+* 书写时间：yymmdd
+* 领域：
+* 形式：视频、文章、隐
+* 
+
+输入 整理、讨论 输出
+
+事物记录、随笔、feedback、学习内容
+
+map、附件框（自己写吧）
+
+不记基本类型，而是放入类别里面，也就是域里面，如果随手记大概也能很好区分，但是这里大概需要一些其他的东西，如果是记录，那么按照纯粹的记录算，如果是有记录加闪念就放入另一栏，所以我需要一个database（也就是纯粹只有记录的一栏，当然记录加闪念的同时可能也需要纯记录的一栏，扩充出一个库出来，也就是需要嵌入去，但是不能纯记录在一个里面而是多个里面）
+

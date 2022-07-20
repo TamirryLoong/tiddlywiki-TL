@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074834700
+creator: tamirry
+modified: 20220720044403288
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 24.下述哪些过程需要细胞本身耗能【1999N140X】__A.维持正常的静息电位____B.膜去极化达阈电位时的大量NA⁺内流____C.动作电位复极相中的K⁺外流____D.骨骼肌细胞胞浆中，CA²⁺向肌浆网内部的聚集__AD
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P21）“钠泵活动形成的Na⁺和K⁺跨膜浓度梯度是细胞发生电活动如静息电位和动作电位的基础”（A对）。（P49）“纵管也称L管，是与肌原纤维走行方向平行的膜性管道，即肌质网（SR），其中在肌原纤维周围包饶，交织成网的称为纵行肌质网（LSR），其膜中有钙泵，可逆浓度梯度将胞质中Ca²⁺转运至SR内”（D对）。（P16）“钠泵活动形成的Na⁺和K⁺跨膜浓度梯度是细胞发生电活动的基础”（A对）。（P45）“纵管也称L管，是与肌原纤维走行方向平行的膜性管道，即肌质网（SR），其中包绕在肌原纤维周围并交织成网的部分称为纵行肌质网（LSR），其膜中有钙泵，可逆浓度梯度将胞质中Ca²⁺转运至SR内”（D对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-49">><<details label:"答案解析" src:"维持正常的静息电位及Ca²⁺向肌质网内部的聚集分别依赖于钠泵和钙泵的活动，二者均属主动转运，需要消耗能量（AD对）；膜去极化至阈电位时的大量钠离子内流及动作电位复极相中的钾离子外流，都是顺浓度梯度发生的，属于经通道介导的易化扩散，无能量的消耗（BC错）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-49">>

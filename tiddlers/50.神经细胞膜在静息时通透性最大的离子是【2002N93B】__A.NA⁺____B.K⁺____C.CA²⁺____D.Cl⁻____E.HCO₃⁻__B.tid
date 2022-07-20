@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835030
+creator: tamirry
+modified: 20220720044403299
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 50.神经细胞膜在静息时通透性最大的离子是【2002N93B】__A.NA⁺____B.K⁺____C.CA²⁺____D.Cl⁻____E.HCO₃⁻__B
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P34）“在安静状态下，细胞膜对各种离子的通透性以K⁺为最高（B对），因为细胞膜中存在持续开放的非门控钾通道。例如，神经细胞膜中有钾漏通道，这种通道在安静时对K⁺的通透性约为对Na⁺通透性的50～100倍”。（P28）“在安静状态下，细胞膜对各种离子的通透性以K⁺为最高（B对），因为细胞膜中存在持续开放的非门控钾通道。例如，神经细胞膜中有钾漏通道，这种通道在安静时对K⁺的通透性约为对Na⁺通透性的50～100倍”。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-75">><<details label:"答案解析" src:"神经细胞膜在静息时，K⁺通透性最大（B对），K⁺受浓度差驱动，由细胞内向细胞外流动，形成静息电位。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-75">>

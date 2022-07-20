@@ -1,0 +1,11 @@
+caption: button
+created: 20220523115104650
+creator: tamirry
+modified: 20220720044403413
+modifier: tamirry
+tags: exported
+title: button
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<$button message="tm-navigate" to="转至条目">名称</$button>

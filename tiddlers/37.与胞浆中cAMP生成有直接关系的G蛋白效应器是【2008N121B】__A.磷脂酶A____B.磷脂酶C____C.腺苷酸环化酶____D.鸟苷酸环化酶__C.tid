@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074834862
+creator: tamirry
+modified: 20220720044403294
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 37.与胞浆中cAMP生成有直接关系的G蛋白效应器是【2008N121B】__A.磷脂酶A____B.磷脂酶C____C.腺苷酸环化酶____D.鸟苷酸环化酶__C
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P28）“AC被激活后，其位于胞内侧的催化活性部位可催化胞内的ATP分解生成cAMP，提高胞质内cAMP的浓度”（C对）。（P23）“AC被激活后，它位于胞内侧的催化活性部位可催化胞内的ATP分解生成cAMP，提高胞质内cAMP水平”（C对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-62">><<details label:"答案解析" src:"G蛋白效应器是指G蛋白直接作用的靶标，G蛋白效应器的重要功能是催化生成第二信使，腺苷酸环化酶（AC）和磷脂酶C（PLC）是两种最常见的G蛋白效应器，腺苷酸环化酶可催化生成的第二信使为环磷酸腺苷（cAMP）（C对），磷脂酶C可催化生成的第二信使为三磷酸肌醇（IP₃）和二酰甘油（DG）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-62">>

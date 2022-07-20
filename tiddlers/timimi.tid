@@ -1,0 +1,12 @@
+created: 20220627044507370
+creator: tamirry
+modified: 20220720044403454
+modifier: tamirry
+tags: 保存方式 exported
+title: timimi
+type: text/vnd.tiddlywiki
+领域: 随记
+
+[[地址|https://ibnishak.github.io/Timimi/]]
+
+用于网页端查看&保存用，快照可以用于保存用，不快照也能够保存，一般来说（相比之前）[[desktop]]好用一些（保存上不需要管它是否需要删除什么了），但是浏览器没有nodejs好像

@@ -1,0 +1,41 @@
+created: 20170212195317211
+creator: tamirry
+modified: 20220620061908096
+modifier: tamirry
+tags: [[task manager]]
+tbl-add-records: 
+tbl-anything: 
+tbl-button-actions: <$action-sendmessage $message="tm-new-tiddler" $param=<<currentRecord>>/>
+tbl-button-icon: {{$:/core/images/clone-button}}
+tbl-button-tip: clone realm
+tbl-caption: <div style="text-align:left;">''Task Manager'' | //<$button class="tc-btn-invisible"><$action-sendmessage $message="tm-new-tiddler" $param="Realm"/>''new realm {{$:/core/images/new-button}}''</$button>//</div>
+tbl-checkbox-actions-selected: 
+tbl-checkbox-actions-unselected: 
+tbl-checkbox-field: 
+tbl-checkbox-tag: 
+tbl-checkbox-tip: 
+tbl-checkbox-value-selected: 
+tbl-checkbox-value-unselected: 
+tbl-class: tbl-style-standard
+tbl-columns: tbl-expand-one title tags tbl-button
+tbl-expand: $:/plugins/aaldrich/task-manager/project-table
+tbl-filter: [all[shadows+tiddlers]]+[field:tbl-type[realm]]-[[Realm]]
+tbl-limit: 9999999
+tbl-mode: normal
+tbl-page-marker: 
+tbl-show-caption: true
+tbl-show-colgroup: false
+tbl-show-edit: false
+tbl-show-footer: false
+tbl-show-header: true
+tbl-show-pagination: false
+tbl-sort-by: title
+tbl-sort-negate: false
+tbl-sort-type: nsort
+tbl-style-colgroup: 
+tbl-style-container: 
+tbl-style-table: 
+title: $:/plugins/aaldrich/task-manager/realm-table
+type: text/vnd.tiddlywiki
+
+<<table>>

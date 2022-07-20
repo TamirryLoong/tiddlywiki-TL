@@ -1,0 +1,12 @@
+created: 20220712141258028
+creator: tamirry
+modified: 20220720044403351
+modifier: tamirry
+parent: 前馈控制系统
+stream-list: 
+stream-type: default
+tags: 生理学 exported
+title: 前馈控制系统 概念
+type: text/vnd.tiddlywiki
+
+概念：由某一监测装置在受到刺激后发出前馈信号，作用于控制部分,使其及早做出适应性反应，及时地调控受控部分的活动的开环系统 

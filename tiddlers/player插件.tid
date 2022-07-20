@@ -1,0 +1,20 @@
+created: 20220602025628307
+creator: tamirry
+modified: 20220720044403438
+modifier: tamirry
+tags: 插件 exported
+tbl-type: idea or mark
+title: player插件
+type: text/vnd.tiddlywiki
+领域: data
+
+* $:/plugins/oeyoews/twm <<tag "cpl">>：一个音乐播放器（然并卵的插件）
+
+!!video.js（TwTube）
+* $:/plugins/TheDiveO/TwTube <<tag "cpl">>：基于video.js的播放器
+* $:/plugins/TheDiveO/YouTubeInspiredVideojsSkin<<tag "cpl">>：一个基于TwTube的皮肤
+* $:/plugins/TheDiveO/IPlayerInspiredVideojsSkin<<tag "cpl">>：一个基于TwTube的皮肤
+* $:/plugins/TheDiveO/SublimeInspiredVideojsSkin<<tag "cpl">>：一个基于TwTube的皮肤
+* $:/plugins/TheDiveO/VideojsHotkeys<<tag "cpl">>：一个基于TwTube的热键插件
+
+back to<<tag "f220522.1 插件使用方式">>

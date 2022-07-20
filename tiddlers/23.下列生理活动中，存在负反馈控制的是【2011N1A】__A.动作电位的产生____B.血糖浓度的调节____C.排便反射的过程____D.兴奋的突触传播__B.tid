@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220716074834686
+creator: tamirry
+difficulty: 5
+due: 20220718153412010
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403286
+modifier: tamirry
+reps: 1
+retrievability: 1
+review: 20220716153412010
+stability: 2
+tags: 绪论 生理学 习题 ? exported
+title: 23.下列生理活动中，存在负反馈控制的是【2011N1A】__A.动作电位的产生____B.血糖浓度的调节____C.排便反射的过程____D.兴奋的突触传播__B
+type: text/vnd.tiddlywiki
+章节: 生理学第一章绪论
+
+<<details label:"考点还原" src:"（P12）“正常机体内，血糖浓度、pH、循环血量、渗透压等也是在负反馈控制系统的作用下保持稳定的”（B对）。（P40）“当刺激引起的去极化达到阈电位水平时，则k⁺外流不足以对抗Na⁺内流，于是在净内向电流的作用下，膜发生的去极化与Na⁺电导之间形成正反馈”（A错）。（P7-P8）“负反馈控制都有一个调定点…当血压或血糖浓度偏离其调定点时，也通过类似的机制，最后使血压或血糖浓度回到正常水平”（B对）。（P36）“当刺激引起的去极化达到阈电位水平时，则K⁺外流不足以对抗Na⁺内流，于是在净内向电流的作用下，膜发生的去极化与Na⁺电导之间形成正反馈”（A错）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-22">><<details label:"答案解析" src:"受控部分发出的反馈信息调整控制部分的活动，最终使受控部分朝着与它原来活动相反的方向改变，称为负反馈，血糖浓度调节过程中，血糖升高能刺激胰岛素分泌，而发挥降糖作用，属于典型的负反馈（B对）。实际上机体内除排尿、排便（C错）、分娩、动作电位去极化过程中Na⁺内流（A错）、血液凝固过程、排卵前夕雌激素对 LH 的促进作用、蛋白酶原的激活等属于正反馈外，绝大部分调节过程均为负反馈。兴奋的突触传播即动作电位的突触传播，存在去极化与Na⁺内流的正反馈过程（D错）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-22">>

@@ -1,0 +1,19 @@
+created: 20220523103201383
+creator: tamirry
+modified: 20220720044403453
+modifier: tamirry
+tags: exported
+tbl-type: idea or mark
+title: TextEditor/Snippet
+type: text/vnd.tiddlywiki
+领域: data
+
+
+```
+这里是用于放一些常用的字符逻辑，以ctrl-s为快捷键的插入一个预设的文本，下面就是这些预设的文本列表，常用字符逻辑不放入需要查看的里面
+```
+
+<<list-links "[field:领域[TextEditor/Snippet]sort[title]]">>
+
+* 列表筛选 ：`<<list-links "[tag[tag]regexp:title[标题筛选]sort[title]]">>`
+back to<<tag "html语法（&tw语法）">>

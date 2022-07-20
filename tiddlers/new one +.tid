@@ -1,0 +1,10 @@
+caption: <$button class="tc-btn-invisible"><$action-setfield $tiddler="idea or mark 模板"  域=<<currentRecord>> created time=<<now "YYYY0MMDD">>/><$action-createtiddler $basetitle=<<now "YYYY0MM0DD">> $template="idea or mark 模板" }><$action-navigate $to=<<createTiddler-title>> /></$action-createtiddler>''new one {{$:/core/images/new-button}}''</$button>
+created: 20220629055221061
+creator: tamirry
+modified: 20220720044403436
+modifier: tamirry
+tags: $:/tags/MenuBar exported
+title: new one +
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-invisible"><$action-setfield $tiddler="idea or mark 模板"  域=<<currentRecord>> created time=<<now "YYYY0MMDD">>/><$action-createtiddler $basetitle=<<now "YYYY0MM0DD">> $template="idea or mark 模板" }><$action-navigate $to=<<createTiddler-title>> /></$action-createtiddler>''new one {{$:/core/images/new-button}}''</$button>

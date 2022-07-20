@@ -1,0 +1,19 @@
+created: 20220628080148095
+creator: tamirry
+modified: 20220720044403324
+modifier: tamirry
+tags: 插件 exported
+title: 钓鱼插件
+type: text/vnd.tiddlywiki
+领域: data
+
+[[墨屉|https://tiddlymemo.org/zh-Hans]]（可以用于知识卡片学习）<br/>
+[[墨屉共享书库|https://twpub-book.vercel.app/]]（共享书库）
+
+* $:/plugins/oflg/fishing：间隔重复
+* $:/plugins/oflg/fishing-analysis：分析
+* $:/plugins/oflg/fishing-cannedfish：学习包
+* $:/plugins/oflg/fishing-catchfish：阅读集成
+* $:/plugins/oflg/fishing-twpub：书籍库
+* $:/plugins/oflg/fishing-zh-Hans：汉化？
+* $:/config/TWPUBPluginLibrary-TiddlyMemo：书库

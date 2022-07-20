@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835118
+creator: tamirry
+modified: 20220720044403301
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 57.能以不衰减的形式沿可兴奋细胞膜传导的电活动是【2005N3A】__A.静息膜电位____B.锋电位____C.终板电位____D.感受器电位____E.突触后电位__B
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P35）“以神经细胞为例…锋电位是动作电位的主要部分，被视为动作电位的标志”（P35）“动作电位具有以下特点…②不衰减传播…”（B对）。（P30）“以神经细胞为例…锋电位是动作电位的主要部分，被视为动作电位的标志”（P30）“动作电位具有以下特点…②不衰减传播…”（B对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-82">><<details label:"答案解析" src:"静息电位是细胞在安静状态时膜内外的电位差，不能够传导（A错）。锋电位是动作电位的主要组成部分，具有“全或无”特性，可进行不衰减传导（B对）。终板电位、感受器电位和突触后电位均为局部电位，局部电位以电紧张的方式向周围扩布，为衰减性传导（CDE错）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-82">>

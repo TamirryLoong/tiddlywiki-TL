@@ -1,0 +1,12 @@
+created: 20220712141258028
+creator: tamirry
+modified: 20220720044403325
+modifier: tamirry
+parent: 反馈控制系统
+stream-list: 负反馈 正反馈控制系统
+stream-type: default
+tags: 生理学 exported
+title: 反馈控制系统 概念
+type: text/vnd.tiddlywiki
+
+概念：由比较器、控制部分和受控部分组成的一个闭环系统。

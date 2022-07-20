@@ -1,0 +1,44 @@
+caption: {{||Select}}
+created: 20220716035527285
+creator: tamirry
+difficulty: 5.853814968245463
+due: 20220723054220115
+grade: 1
+history: [{"due":"20220715051213810","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220713051213809"},{"due":"20220715070602971","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220713070602971"},{"due":"20220715070607092","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220713070607092"},{"due":"20220723035501402","interval":3,"difficulty":5.453814968245463,"stability":7.015545623896911,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":4,"review":"20220716035501402"},{"due":"20220723053700803","interval":0,"difficulty":5.653814968245463,"stability":7.015545623896911,"retrievability":1,"grade":1,"lapses":0,"reps":5,"review":"20220716053700802"}]
+interval: 0
+lapses: 0
+modified: 20220720044403207
+modifier: tamirry
+reps: 6
+retrievability: 1
+review: 20220716054220115
+stability: 7.015545623896911
+stream-list: 
+stream-type: default
+tags: 习题 生理学 绪论 ? exported
+time: 20220712
+title: 01.关于体液的叙述正确的是【2010N1A】__A.分布在各部分的体液量大体相等____B.各部分体液彼此隔开又相互沟通____C.各部分体液的成分几乎没有差别____D.各部分体液中最活跃的是细胞内液__B
+type: text/vnd.tiddlywiki
+}: true
+章节: 生理学 绪论 001
+
+<<details label:"考点还原" 
+src:"
+（P8）”人体内的液体总称为体液, 约占体重的60%。体液可分为两部分：约2/3的体液分 布在细胞内，称为细胞内液, 其余的 1/3分布在细胞外，称为细胞外液 , 包括血浆、组织液、淋巴液和脑脊液”（A错）。（八版生理学P4）“人体各部分体液彼此隔开，因而各部分体液的成分有较大差别，但各部分体液又相互沟通”（B对C错）。（八版生理学P4）“血浆是沟通各部分体液并与外界环境进行物质交换的重要媒介，因而是各部分体液中最为活跃的部分”（D错）。（P4）“正常成年人的体液量约占体重的60％，其中约2/3分布于细胞内，称为细胞内液；其余约1/3分布于细胞外，称为细胞外液。细胞外液中约3/4分布于细胞间隙内，称为组织间液或组织液；其余约1/4则在血管中不断地循环流动，即为血浆”（A错）。（P4）“人体各部分体液彼此隔开，因而各部分体液的成分有较大差别，但各部分体液又相互沟通”（B对C错）。（P4）“血浆是沟通各部分体液并与外界环境进行物质交换的重要媒介，因而是各部分体液中最为活跃的部分”（D错）。。
+
+"  
+srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-1">>
+<<details label:"答案解析" 
+src:"
+人体内体液包括了细胞内液和细胞外液两种，其中细胞内液约占正常成年人体重的40%，细胞外液约占正常成年人体重的20%，细胞外液又包括了组织间液和血浆，组织间液约占体重的15%，血浆约占体重的5%，故分布在人体各部分的体液量是不相等的（A错）。细胞内液和细胞外液被细胞膜隔开，成分存在较大差别，如细胞外高钠、高钙、高氯，细胞内高钾等，但细胞内液和细胞外液可以通过细胞膜进行跨膜物质转运（互相沟通），跨膜物质转运的形式包括单纯扩散、易化扩散、主动转运等。同样，组织间液和血浆被毛细血管壁分隔，成分存在较大差别，如血浆中含有大量的血浆蛋白，而组织液中蛋白含量很少，血浆蛋白分子量大，不易通过毛细血管壁，但水和晶体物质等小分子物质却可以自由通过（互相沟通）（B对C错）。由于血浆是沟通各部分体液并与外界环境进行物质交换的重要媒介，因而各部分体液中最为活跃的部分是血浆，而不是细胞内液（D错）。
+
+"  
+srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-1">>
+<<details label:"备注笔记" 
+src:"
+* A不想等，细胞外液1/3，细胞内液2/3
+* B对的
+* C有差别
+* D体液中最活跃的是血浆
+"  
+status:"" labelClass:"bg-secondary text-white" >>

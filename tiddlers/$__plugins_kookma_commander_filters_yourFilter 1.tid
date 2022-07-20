@@ -1,0 +1,9 @@
+created: 20220716075805598
+creator: tamirry
+description: all own tidder
+filter: [!is[system]search[]]
+modified: 20220716075805598
+modifier: tamirry
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/yourFilter 1
+type: text/vnd.tiddlywiki

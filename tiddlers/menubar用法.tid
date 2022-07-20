@@ -1,0 +1,15 @@
+created: 20220527083357919
+creator: tamirry
+modified: 20220720044403431
+modifier: tamirry
+tags: exported
+tbl-type: idea or mark
+title: menubar用法
+type: text/vnd.tiddlywiki
+领域: data
+
+;tags设置
+:$:/tags/MenuBar
+;字段需要设置
+:is-dropdown：yes
+:caption：名称

@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220716074834514
+creator: tamirry
+difficulty: 5
+due: 20220718153400551
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403223
+modifier: tamirry
+reps: 1
+retrievability: 1
+review: 20220716153400551
+stability: 2
+tags: 绪论 生理学 习题 ? exported
+title: 09.胰岛素抑制胰岛A细胞分泌胰高血糖素属于【2013N121B】__A.旁分泌调节____B.血分泌调节____C.自分泌调节____D.腔分泌调节__A
+type: text/vnd.tiddlywiki
+章节: 生理学第一章绪论
+
+<<details label:"考点还原" src:"（P11）“但也有一些化学物质不通过血液循环而直接进入周围的组织液，经扩散作用到达邻近的细胞后发挥特定的生理作用，这种调节可以看作是局部性体液调节，或称为旁分泌调节，如胰高血糖素刺激胰岛β细胞分泌胰岛素的调节过程”（P391）“胰岛素和生长抑素可以直接抑制相邻的α细胞分泌胰高血糖素”（A对）。（P6）“有些细胞产生的生物活性物质可不经过血液运输，而是在组织液中扩散，作用于邻旁细胞，这种方式称为旁分泌。如生长抑素在胰岛内抑制α细胞分泌胰高血糖素就是以这种方式进行的”。（P407）“胰岛素和生长抑素可以旁分泌的方式直接抑制相邻的α细胞分泌胰高血糖素”（A对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-8">><<details label:"答案解析" src:"旁分泌（P11、P363）是指细胞产生的激素或调节因子通过细胞间隙对邻近的其他种类细胞起促进或抑制作用的调节方式，胰岛素抑制胰岛A细胞分泌胰高血糖素属于典型的旁分泌调节。血分泌（P354）是远距分泌的另一种叫法，指内分泌细胞分泌的激素循血液途径作用于全身各处的靶细胞的调节方式。自分泌（P11）是指激素分泌后在局部扩散又反馈作用于产生该激素的内分泌细胞本身。腔分泌（七版生理学P169）指胃肠激素由内分泌细胞释放后，沿着细胞之间的缝隙，弥散入胃肠腔而起作用的调节方式。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-8">>

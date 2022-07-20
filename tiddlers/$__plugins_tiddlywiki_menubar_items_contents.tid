@@ -1,0 +1,16 @@
+caption: 目录
+created: 20220603033819524
+creator: tamirry
+description: Table of Contents
+is-dropdown: yes
+modified: 20220603033819524
+modifier: tamirry
+tags: $:/tags/MenuBar
+title: $:/plugins/tiddlywiki/menubar/items/contents
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<$macrocall $name="toc-selective-expandable" tag={{$:/config/plugins/menubar/TableOfContents/Tag}}/>
+
+</div>

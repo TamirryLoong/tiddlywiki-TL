@@ -1,0 +1,13 @@
+author: Fred D
+core-version: >=5.1.23
+created: 20210721002314248
+dependents: $:/plugins/sq/streams $:/plugins/flibbles/relink
+description: Streams-fusion - a streams addon to merge streams tiddlers
+list: readme changelog license
+modified: 20220605134419479
+name: Streams Fusion
+plugin-type: plugin
+source: https://fastfreddy.gitlab.io/streams-fusion/
+title: $:/plugins/phiv/streams-fusion
+type: application/json
+version: 0.0.14-beta

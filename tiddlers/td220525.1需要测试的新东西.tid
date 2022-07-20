@@ -1,0 +1,21 @@
+created: 20220525125140367
+creator: tamirry
+modified: 20220720044403450
+modifier: tamirry
+tags: exported
+tbl-type: idea or mark
+title: td220525.1需要测试的新东西
+type: text/vnd.tiddlywiki
+域: todo
+基本类型: 
+领域: 
+
+<<sticky-done "日历系统" " Completed: 2022-06-06 4:08 下午 ">>
+<<sticky-done "模板" " Completed: 2022-06-03 7:29 下午 ">>
+<<sticky-done "隐藏→按钮" " Completed: 2022-06-06 4:08 下午 ">>
+<<sticky-done "checkbox" " Completed: 2022-06-03 1:47 下午 ">>
+<<sticky "筛选器逻辑（repression语法）">>
+<<sticky-done "怎样置中文字图片视频等" " Completed: 2022-06-06 4:08 下午 ">>
+<<sticky-done "$:/plugins/Gk0Wk/echarts/readme测试玩" " Completed: 2022-06-06 4:08 下午 ">>
+<<sticky-done "群里新东西看一下：$:/plugins/aaldrich/tables" " Completed: 2022-06-10 10:37 下午 ">>
+<<sticky-done "看一下bottomtabs" " Completed: 2022-06-20 5:10 下午 ">>[[bottomtabs|http://bottomtabs.tiddlyspot.com/]] 评价：需要安装另外的东西比较麻烦，虽然能放入低栏但是个人觉得没什么大的必要（不如直接放领域）

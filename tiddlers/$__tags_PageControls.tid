@@ -1,0 +1,7 @@
+created: 20220523165558416
+creator: tamirry
+list: $:/core/ui/Buttons/home $:/core/ui/Buttons/more-page-actions $:/core/ui/Buttons/control-panel $:/core/ui/Buttons/new-tiddler $:/core/ui/Buttons/CommandPalette $:/core/ui/Buttons/fold-all $:/plugins/kookma/commander/buttons/pagecontrol $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/refresh $:/core/ui/Buttons/close-all $:/plugins/oflg/fishing/fishingfloat $:/plugins/kookma/utility/ui/Buttons/ViewFields $:/plugins/aaldrich/tables/button $:/core/ui/Buttons/unfold-all $:/core/ui/Buttons/permaview $:/core/ui/Buttons/new-journal $:/core/ui/Buttons/new-image $:/core/ui/Buttons/import $:/core/ui/Buttons/export-page $:/core/ui/Buttons/advanced-search $:/core/ui/Buttons/manager $:/core/ui/Buttons/tag-manager $:/core/ui/Buttons/language $:/core/ui/Buttons/palette $:/core/ui/Buttons/theme $:/core/ui/Buttons/storyview $:/core/ui/Buttons/encryption $:/core/ui/Buttons/timestamp $:/core/ui/Buttons/full-screen $:/core/ui/Buttons/print $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette $:/plugins/tiddlywiki/menubar/items/search
+modified: 20220714045058992
+modifier: tamirry
+title: $:/tags/PageControls
+type: text/vnd.tiddlywiki

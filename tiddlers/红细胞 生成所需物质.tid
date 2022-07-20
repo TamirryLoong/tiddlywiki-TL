@@ -1,0 +1,25 @@
+caption: {{||Question}}
+created: 20220712141258028
+creator: tamirry
+difficulty: 5
+due: 20220718033145905
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403332
+modifier: tamirry
+parent: 红细胞生成调节
+reps: 1
+retrievability: 1
+review: 20220716033145905
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: 红细胞 生成所需物质
+type: text/vnd.tiddlywiki
+
+✓生成所需物质：
+
+* 铁——合成血红蛋白（缺铁则引起[[缺铁性贫血]]）
+* 叶酸和VB12——红细胞成熟（缺乏则引起[[巨幼细胞性贫血]]）

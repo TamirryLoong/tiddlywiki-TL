@@ -1,0 +1,16 @@
+caption: 选择文件
+created: 20220606062101045
+creator: tamirry
+modified: 20220720044403387
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: 选择文件
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<div class="addpic"> 
+<form>
+<input id="logoimg" class="addlogo" type="file" multiple accept="image/*" name="logo"> 
+</form> 
+</div>
+<img id="showlogo" src="" alt="">

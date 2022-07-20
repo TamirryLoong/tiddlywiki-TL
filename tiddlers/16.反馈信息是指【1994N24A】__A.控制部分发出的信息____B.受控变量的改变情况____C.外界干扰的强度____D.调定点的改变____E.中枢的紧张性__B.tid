@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220716074834608
+creator: tamirry
+difficulty: 5
+due: 20220718153407365
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403249
+modifier: tamirry
+reps: 1
+retrievability: 1
+review: 20220716153407365
+stability: 2
+tags: 绪论 生理学 习题 ? exported
+title: 16.反馈信息是指【1994N24A】__A.控制部分发出的信息____B.受控变量的改变情况____C.外界干扰的强度____D.调定点的改变____E.中枢的紧张性__B
+type: text/vnd.tiddlywiki
+章节: 生理学第一章绪论
+
+<<details label:"考点还原" src:"（八版生理学P7）“由受控部分发出的信息反过来影响控制部分的活动，称为反馈”（B对）。（P7）“由受控部分发出的信息反过来影响控制部分的活动，称为反馈”（B对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-15">><<details label:"答案解析" src:"控制部分对受控部分施加影响后，受控部分发生改变，这种改变信息（B对）反过来纠正控制部分的活动，称为反馈，反馈有负反馈和正反馈两种形式。与反馈对应的一个概念是前馈（P13），前馈是指控制部分在反馈信息尚未到达前已受到纠正信息（前馈信息）的影响，及时纠正其可能出现偏差的活动。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-15">>

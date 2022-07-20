@@ -1,0 +1,7 @@
+created: 20220523165849900
+creator: tamirry
+list: $:/core/ui/Buttons/delete $:/core/ui/Buttons/edit $:/core/ui/Buttons/more-tiddler-actions $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/close $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold $:/core/ui/Buttons/fold-bar
+modified: 20220603052949625
+modifier: tamirry
+title: $:/tags/ViewToolbar
+type: text/vnd.tiddlywiki

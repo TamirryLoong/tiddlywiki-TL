@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074834541
+creator: tamirry
+modified: 20220720044403231
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 109.属于骨骼肌的兴奋-收缩耦联过程的有【2013N151X】__A.电兴奋通过横管传向肌细胞的深处____B.三联管的信息传递，导致终池CA²⁺释放____C.肌浆中的CA²⁺与肌钙蛋白结合可触发肌丝滑行____D.钙泵活动将CA²⁺泵到细胞外，降低肌浆中CA²⁺浓度__ABC
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P51）“①T管膜上的动作电位传导…肌膜上的动作电位可沿T管膜传至肌细胞内部…（A对）。②JSR内Ca²⁺的释放…JSR内的Ca²⁺顺浓度差释放到胞质中…（B对）。③Ca²⁺触发肌丝滑行。胞质内Ca²⁺浓度的升高促使Ca²⁺与TnC结合而触发肌肉收缩（C对）。④JSR回收Ca²⁺”（D错）。（P48）“①T管膜上的动作电位传导…肌膜上的动作电位可沿T管膜传至肌细胞内部…（A对）。②JSR内Ca²⁺的释放…JSR内的Ca²⁺顺浓度差释放到胞质中…（B对）。③Ca²⁺触发肌肉收缩。胞质内Ca²⁺浓度的升高促使Ca²⁺与TnC结合而触发肌肉收缩（C对）。④JSR回收Ca²⁺（D错）”。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-134">><<details label:"答案解析" src:"钙泵位于纵行肌质网（LSR）上，胞质内Ca²⁺浓度升高时钙泵被激活，将胞质内Ca²⁺泵入肌质网（SR）中（而不是将Ca²⁺泵到细胞外）（D错），降低肌浆中Ca²⁺浓度，引起肌肉舒张。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-134">>

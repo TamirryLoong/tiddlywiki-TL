@@ -1,0 +1,24 @@
+created: 20220602060533287
+creator: tamirry
+modified: 20220720044403412
+modifier: tamirry
+tags: html语法（&tw语法） exported
+tbl-type: idea or mark
+title: action
+type: text/vnd.tiddlywiki
+领域: data
+
+[[官方说明介绍|https://bramchen.github.io/tw5-docs/zh-Hans/#ActionWidgets:ButtonWidget%20ActionWidgets%20ActionCreateTiddlerWidget%20ActionSendMessageWidget%20Tiddlers%20WikiText]]
+
+!!!常在button中用
+* action-confirm：发弹窗用询问信息（常带$message）
+* action-createtiddler：创建新条目用（常带$template$basetitle{任何不以 $ 开头的属性}=字段内容）
+* action-deletefield：用于删除条目内容或者tag(常带$tiddler$field)
+* action-deletetiddler：删除条目或者筛选出的条目（常带$tiddler$filter）
+* action-listops
+* action-log
+* action-navigate：=tm-navigate（常带$to）
+* action-popup
+* action-sendmessage
+* action-setfield
+* action-setmultiplefields

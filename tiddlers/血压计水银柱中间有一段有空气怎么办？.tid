@@ -1,0 +1,29 @@
+caption: {{||Question}}
+created: 20220628135651172
+creator: tamirry
+difficulty: 4.904169200599264
+due: 20220805041907546
+grade: 1
+history: [{"due":"20220701021704355","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220629021704355"},{"due":"20220701061412737","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220629061412737"}]
+interval: 13
+lapses: 0
+modified: 20220720044403397
+modifier: tamirry
+reps: 3
+retrievability: 0.5041692005992632
+review: 20220712041907545
+stability: 24.030325685524648
+tags: ? exported
+tbl-type: idea or mark
+time: 220628
+title: 血压计水银柱中间有一段有空气怎么办？
+type: text/vnd.tiddlywiki
+}: true
+域: 学习生活
+
+“血压计水银柱当中有一段空气,建议把血压计打到开的状态下,<br/>
+向左或者向右倾斜45度角,从血压计上端拍击水银柱顶端,<br/>
+这样水银柱就会降落,将空气排出去。<br/>
+这时再把血压计开关阀关到关这个方向就可以,以后可以正常使用。”<br/>
+
+（直说就是，左右摇晃猛拍它）

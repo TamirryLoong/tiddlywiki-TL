@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835021
+creator: tamirry
+modified: 20220720044403298
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 49.与Nernst公式计算所得相比，实际测得的神经细胞静息电位值【2011N3A】__A.恰等于K⁺平衡电位____B.恰等于NA⁺平衡电位____C.接近于NA⁺平衡电位____D.接近于K⁺平衡电位__D
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P34）“膜对某种离子的通透性愈高，该离子的扩散对静息电位形成的作用就愈大，静息电位也就愈接近于该离子的平衡电位。在安静状态下，细胞膜对各种离子的通透性以K⁺为最高，因为细胞膜中存在持续开放的非门控钾通道”（D对）。（P28）“膜对某种离子的通透性愈高，该离子的扩散对静息电位形成的作用就愈大，静息电位也就愈接近于该离子的平衡电位。在安静状态下，细胞膜对各种离子的通透性以K⁺为最高，因为细胞膜中存在持续开放的非门控钾通道”（D对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-74">><<details label:"答案解析" src:"静息电位接近于K⁺的平衡电位（D对），更准确地说是略小于K⁺的平衡电位（P34），因为安静时细胞膜对Na⁺也有一定的通透性，少量进入细胞的Na⁺可部分抵消有K⁺外流所形成的膜内负电位。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-74">>

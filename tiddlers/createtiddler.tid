@@ -1,0 +1,16 @@
+caption: createtiddler
+created: 20220606092518623
+creator: tamirry
+modified: 20220720044403416
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: createtiddler
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<$button>
+<$action-createtiddler $basetitle=<<now "YY0MM0DD">> tags="" }>
+<$action-navigate $to=<<createTiddler-title>> />
+</$action-createtiddler>
+tag
+</$button>

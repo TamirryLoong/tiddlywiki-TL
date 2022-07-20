@@ -1,0 +1,11 @@
+caption: bili视频修改代码
+created: 20220606070641021
+creator: tamirry
+modified: 20220720044403413
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: bili视频修改代码
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<iframe src="https:网址" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>

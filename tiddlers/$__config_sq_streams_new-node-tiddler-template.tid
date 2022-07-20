@@ -1,0 +1,11 @@
+caption: Tiddler to use as new node template
+created: 20220712141248746
+creator: tamirry
+description: T iddler to use as a template for new nodes
+modified: 20220712141252012
+modifier: tamirry
+settings-template: $:/plugins/sq/streams/ui/templates/settings/input
+title: $:/config/sq/streams/new-node-tiddler-template
+type: text/vnd.tiddlywiki
+
+生理学的模板

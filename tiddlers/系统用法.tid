@@ -1,0 +1,25 @@
+created: 20220612170405332
+creator: tamirry
+modified: 20220720044403376
+modifier: tamirry
+tags: wiki使用方式 exported
+tbl-type: idea or mark
+title: 系统用法
+type: text/vnd.tiddlywiki
+领域: data
+
+标签相当于文件夹
+
+$:/ControlPanel：控制台
+$:/tags/ControlPanel：控制台标记显示
+$:/core/ui/ControlPanel/Appearance：视觉外观标记显示
+$:/tags/SideBar：侧边栏标记显示
+$:/tags/MenuBar：顶栏标记显示
+$:/tags/PluginLibrary：插件库
+$:/tags/ViewToolbar:查看工具栏
+$:/tags/PageControls：页面工具栏
+$:/tags/Image：系统自带符号图片
+$:/tags/EditorToolbar：编辑器工具栏
+$:/tags/EditToolbar：编辑工具栏
+$:/SiteTitle：大标题
+$:/SiteSubtitle：副标题

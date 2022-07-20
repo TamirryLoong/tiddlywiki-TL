@@ -1,0 +1,16 @@
+caption: 收起展开
+created: 20220619042853681
+creator: tamirry
+modified: 20220720044403363
+modifier: tamirry
+tags: $:/tags/TextEditor/Snippet exported
+title: 收起展开
+type: text/vnd.tiddlywiki
+领域: TextEditor/Snippet
+
+<<details label:"标题" 
+src:"
+
+"  
+status:"" labelClass:"bg-secondary text-white" >>
+status:"" srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-1">>

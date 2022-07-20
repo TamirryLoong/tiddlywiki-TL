@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835967
+creator: tamirry
+modified: 20220720044403317
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 95.下列有关神经-肌肉接点处终板膜上离子通道的叙述，错误的是【2001N5A】__A.对NA⁺和K⁺均有选择性____B.当终板膜去极化时打开____C.开放时产生终板电位____D.是N₂-ACh受体通道____E.受体和通道是一个大分子__B
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P47）“再由ACh激活终板膜中的N₂型ACh受体阳离子通道，产生终板膜电位变化（电信号）”（CD对）（B错，为本题正确答案）。（P47）“N₂型ACh受体阳离子通道的直径约0.65nm，允许Na⁺、K⁺和Ca²⁺跨膜移动，但主要是Na⁺内流和K⁺外流”（A对）。（P18）“这是一类兼有通道和受体功能的蛋白分子”（E对）。（P43）“再由ACh激活终板膜中的N₂型ACh受体阳离子通道，产生终板膜电位变化（电信号）”（CD对）（B错，为本题正确答案）。（P43）“N₂型ACh受体阳离子通道的直径约0.65nm，允许Na⁺、K⁺和Ca²⁺跨膜移动，但主要是Na⁺内流和K⁺外流”（A对）。（P13）“这是一类兼有通道和受体功能的蛋白分子”（E对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-120">><<details label:"答案解析" src:"神经-肌接头处兴奋传导的具体过程为：运动神经纤维传到末梢的动作电位触发接头前膜Ca²⁺依赖性突触囊泡出胞，释放ACh至接头间隙，再由ACh激活终板膜中的N₂型ACh受体阳离子通道，产生终板膜电位变化（去极化）。所以，神经-肌接头处终板膜上离子通道开放使终板膜发生了去极化，而不是终板膜去极化使神经-肌接头处终板膜上离子通道开放，B选项属于典型的因果倒置（B错，为本题正确答案）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-120">>

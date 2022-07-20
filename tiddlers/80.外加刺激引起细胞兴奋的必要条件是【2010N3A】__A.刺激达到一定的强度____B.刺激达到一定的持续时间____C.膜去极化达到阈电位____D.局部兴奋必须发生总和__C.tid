@@ -1,0 +1,11 @@
+caption: {{||Select}}
+created: 20220716074835565
+creator: tamirry
+modified: 20220720044403310
+modifier: tamirry
+tags: 细胞的基本功能 生理学 习题 ? exported
+title: 80.外加刺激引起细胞兴奋的必要条件是【2010N3A】__A.刺激达到一定的强度____B.刺激达到一定的持续时间____C.膜去极化达到阈电位____D.局部兴奋必须发生总和__C
+type: text/vnd.tiddlywiki
+章节: 生理学第二章细胞的基本功能
+
+<<details label:"考点还原" src:"（P40）“这个能触发动作电位的膜电位临界值称为阈电位”（C对）。（P36）“这个能触发动作电位的膜电位临界值称为阈电位”（C对）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-105">><<details label:"答案解析" src:"膜去极化达到阈电位是外加刺激引起细胞兴奋（发生动作电位）的必要条件（C对），刺激强度和刺激的持续时间是能够影响膜是否能够达到阈电位的影响因素，刺激强度大小和刺激持续时间长短与动作电位的发生无独立、直接的关联（AB错）；局部电位发生总和未必能去极化达到阈电位水平（D错）。"  srcClass:"alert border-secondary py-0" labelClass:"alert  alert-secondary py-1 my-105">>

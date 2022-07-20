@@ -1,0 +1,15 @@
+caption: TheBrain
+created: 20211220184056323
+creator: Sttot
+list-after: 学习内容
+modified: 20220720044403453
+modifier: tamirry
+stream-list: TheBrain/20220710150615313
+stream-type: default
+tags: echarts插件 $:/tags/SideBar exported
+tbl-type: idea or mark
+title: TheBrain
+type: text/vnd.tiddlywiki
+领域: data
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels="2" graphTitle="The Barin View" $fillSidebar="true" />

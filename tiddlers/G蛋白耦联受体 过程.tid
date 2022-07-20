@@ -1,0 +1,22 @@
+caption: {{||Question}}
+created: 20220714143321635
+creator: tamirry
+difficulty: 5
+due: 20220717050320670
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403420
+modifier: tamirry
+parent: G蛋白耦联受体
+reps: 1
+retrievability: 1
+review: 20220715050320670
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: G蛋白耦联受体 过程
+type: text/vnd.tiddlywiki
+
+✓过程：配体（第一信使）+G蛋白耦联受体→[[G蛋白]]→[[G蛋白效应器]]→[[第二信使]]→[[蛋白激酶]]

@@ -1,0 +1,9 @@
+author: OokTech
+core-version: >=5.1.8
+dependents: 
+description: A plugin that adds a simple photo gallery to tiddlywiki
+plugin-type: plugin
+source: https://github.com/OokTech/TW5-PhotoGallery
+title: $:/plugins/OokTech/PhotoGallery
+type: application/json
+version: 0.0.5

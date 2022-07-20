@@ -1,0 +1,11 @@
+caption: SCM
+created: 20220720051029195
+creator: tamirry
+description: Source Control Management
+modified: 20220720051030377
+modifier: tamirry
+tags: 
+title: $:/plugins/linonetwo/source-control-management/SideBarSCMTab
+type: text/vnd.tiddlywiki
+
+<$git-sync-scm-tab />

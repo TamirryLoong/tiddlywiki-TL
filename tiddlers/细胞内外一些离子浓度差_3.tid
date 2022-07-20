@@ -1,0 +1,27 @@
+caption: {{||Question}}
+created: 20220714113530731
+creator: tamirry
+difficulty: 5
+due: 20220717045651238
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220720044403382
+modifier: tamirry
+parent: 跨细胞膜的物质转运
+reps: 1
+retrievability: 1
+review: 20220715045651238
+stability: 2
+stream-type: default
+tags: 生理学 ? exported
+title: 细胞内外一些离子浓度差/3
+type: text/vnd.tiddlywiki
+
+✓细胞内外一些离子浓度差/3——外：高钠低钾高钙；内：低钠高钾低钙
+
+|正离子|细胞外液(mM)|细胞内液(mM)|
+|Na+|145|12|
+|K+|4.4|139|
+|Ca2+|2.4|0.2mM|

@@ -1,0 +1,74 @@
+created: 20200520152857341
+creator: tamirry
+droptype: image/jpeg
+list: 
+modified: 20220720052553868
+modifier: tamirry
+tags: DropCanonicalURI $:/tags/Macro Project exported
+title: DropCanonicalURI
+type: text/vnd.tiddlywiki
+
+\define droppable-canonical()
+<$set name="URLfilename" filter="[<actionTiddler>split[/]minlength[1]last[]decodeuri[]] +[addsuffix[ (linked)]]">
+<$set name="containerTiddler" filter="[<currentTiddler>]">
+<$list filter=<<URLfilename>> variable="newImportName">
+<$action-setfield $tiddler=<<newImportName>> $field="_canonical_uri" $value=<<actionTiddler>>/>
+<$action-setfield $tiddler=<<newImportName>> $field="type" $value={{!!droptype}}/>
+<$action-setfield $tiddler=<<newImportName>> $field="tags" $value=<<containerTiddler>>/>
+<$action-navigate $to=<<currentTiddler>>/>
+</$list>
+</$set>
+</$set>
+\end
+
+\define dropcanonicaluri()
+<$list filter="[<currentTiddler>compare:string:eq[DropCanonicalURI]]" variable=avoid_changing_currentTiddler>
+
+''Usage:'' This a small macro to add a droppable area in a tiddler to import externally dragged URLs into TiddlyWiki as a canonical-url externally stored resource.
+
+The name of the new tiddler will be the name of the URL filename (or the name of the current directory for those URLs ending in a "/" ) with the decodeuri[] applied to translate escaped character sequences (like %20-spaces and international characters) back to their original.
+
+The new tiddler will also be tagged with tiddler that contains the DropCanonicalURI trancluded via:
+
+```
+{{||DropCanonicalURI}}
+```
+or as a macro via:
+
+```
+<<dropcanonicaluri>>
+```
+
+This usage information will automatically disappear if the containing tiddler is not tagged with "DropCanonicalURI".
+
+</$list>
+
+<div class="tc-type-selector"><$fieldmangler>
+<em class="tc-edit"><<lingo Type/Prompt>></em> <$edit-text field="droptype" tag="input" default="" placeholder={{$:/language/EditTemplate/Type/Placeholder}} focusPopup=<<qualify "$:/state/popup/type-dropdown">> class="tc-edit-typeeditor tc-popup-handle"/> <$button popup=<<qualify "$:/state/popup/type-dropdown">> class="tc-btn-invisible tc-btn-dropdown" tooltip={{$:/language/EditTemplate/Type/Dropdown/Hint}} aria-label={{$:/language/EditTemplate/Type/Dropdown/Caption}}>{{$:/core/images/down-arrow}}</$button> <$button message="tm-remove-field" param="droptype" class="tc-btn-invisible tc-btn-icon" tooltip={{$:/language/EditTemplate/Type/Delete/Hint}} aria-label={{$:/language/EditTemplate/Type/Delete/Caption}}>{{$:/core/images/delete-button}}</$button>
+</$fieldmangler></div>
+
+<div class="tc-block-dropdown-wrapper">
+<$reveal state=<<qualify "$:/state/popup/type-dropdown">> type="nomatch" text="" default="">
+<div class="tc-block-dropdown tc-edit-type-dropdown">
+<$linkcatcher to="!!droptype">
+<$list filter='[all[shadows+tiddlers]prefix[$:/language/Docs/Types/]each[group]sort[group-sort]]'>
+<div class="tc-dropdown-item">
+<$text text={{!!group}}/>
+</div>
+<$list filter="[all[shadows+tiddlers]prefix[$:/language/Docs/Types/]group{!!group}] +[sort[description]]"><$link to={{!!name}}><$view field="description"/> (<$view field="name"/>)</$link>
+</$list>
+</$list>
+</$linkcatcher>
+</div>
+</$reveal>
+</div>
+
+<$droppable actions=<<droppable-canonical>>>
+<div style="border: dotted 3px black ; padding: 20px;" id="mydiv">
+Drag a URL into the dotted area to create a Tiddler linked to an external resource and assigned the mime-type selected in the above dropdown.<br>
+</div> </$droppable>
+\end
+
+<<dropcanonicaluri>>
+
+<<listhere>>

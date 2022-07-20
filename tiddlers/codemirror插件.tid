@@ -1,0 +1,20 @@
+created: 20220527082619684
+creator: tamirry
+modified: 20220720044403415
+modifier: tamirry
+tags: 插件 exported
+tbl-type: idea or mark
+title: codemirror插件
+type: text/vnd.tiddlywiki
+领域: data
+
+!!codemirror：
+（也不知道这个东西有什么用但是可以用来快速替换挺好的）
+
+* $:/plugins/tiddlywiki/codemirror：是用于使用其他部分的一个基础部件
+* $:/plugins/tiddlywiki/codemirror-autocomplete：是上面`codemirror`的自动更新部件
+* $:/plugins/tiddlywiki/codemirror-search-replace：此部件于`codemirror`的基础上可以全局搜索替换（Shift-Ctrl-R 全局替换）
+* $:/plugins/linonetwo/pinyin-fuzzy-search：用于拼音模糊搜索，并且是`codemirror-autocomplete`按钮的基础
+* $:/plugins/tiddlywiki/codemirror-autocomplete：用于快速检索和建立新条目，但必须需要上面的`pinyin-fuzzy-search`先安装，否则会崩溃
+
+back to<<tag "f220522.1 插件使用方式">>
